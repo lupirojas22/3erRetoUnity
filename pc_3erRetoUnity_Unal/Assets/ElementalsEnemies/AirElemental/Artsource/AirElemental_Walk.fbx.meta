@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 0a5b6696c674f1a4ba195ab1d1d11f83
+timeCreated: 1522270691
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AirElemental
+    100002: //RootNode
+    100004: Back_Scarf_1
+    100006: Back_Scarf_2
+    100008: Back_Scarf_3
+    100010: Body
+    100012: Body_Fwoop
+    100014: Chest
+    100016: Front_Scarf_1
+    100018: Front_Scarf_2
+    100020: Front_Scarf_3
+    100022: Head
+    100024: L_Ankle
+    100026: L_Clavicle
+    100028: L_Elbow
+    100030: L_Eye
+    100032: L_Eyebrow
+    100034: L_Hand
+    100036: L_Heel
+    100038: L_Hip
+    100040: L_Index_1
+    100042: L_Index_2
+    100044: L_Index_3
+    100046: L_Knee
+    100048: L_Knee_Fwoop
+    100050: L_Middle_1
+    100052: L_Middle_2
+    100054: L_Middle_3
+    100056: L_Pinky_1
+    100058: L_Pinky_2
+    100060: L_Pinky_3
+    100062: L_Ring_1
+    100064: L_Ring_2
+    100066: L_Ring_3
+    100068: L_Shoulder
+    100070: L_Thumb_1
+    100072: L_Thumb_2
+    100074: L_Thumb_3
+    100076: L_Toe
+    100078: L_Wrist
+    100080: Neck
+    100082: Pelvis
+    100084: R_Ankle
+    100086: R_Clavicle
+    100088: R_Elbow
+    100090: R_Eye
+    100092: R_Eyebrow
+    100094: R_Hand
+    100096: R_Heel
+    100098: R_Hip
+    100100: R_Index_1
+    100102: R_Index_2
+    100104: R_Index_3
+    100106: R_Knee
+    100108: R_Knee_Fwoop
+    100110: R_Middle_1
+    100112: R_Middle_2
+    100114: R_Middle_3
+    100116: R_Pinky_1
+    100118: R_Pinky_2
+    100120: R_Pinky_3
+    100122: R_Ring_1
+    100124: R_Ring_2
+    100126: R_Ring_3
+    100128: R_Shoulder
+    100130: R_Thumb_1
+    100132: R_Thumb_2
+    100134: R_Thumb_3
+    100136: R_Toe
+    100138: R_Wrist
+    100140: Root
+    400000: AirElemental
+    400002: //RootNode
+    400004: Back_Scarf_1
+    400006: Back_Scarf_2
+    400008: Back_Scarf_3
+    400010: Body
+    400012: Body_Fwoop
+    400014: Chest
+    400016: Front_Scarf_1
+    400018: Front_Scarf_2
+    400020: Front_Scarf_3
+    400022: Head
+    400024: L_Ankle
+    400026: L_Clavicle
+    400028: L_Elbow
+    400030: L_Eye
+    400032: L_Eyebrow
+    400034: L_Hand
+    400036: L_Heel
+    400038: L_Hip
+    400040: L_Index_1
+    400042: L_Index_2
+    400044: L_Index_3
+    400046: L_Knee
+    400048: L_Knee_Fwoop
+    400050: L_Middle_1
+    400052: L_Middle_2
+    400054: L_Middle_3
+    400056: L_Pinky_1
+    400058: L_Pinky_2
+    400060: L_Pinky_3
+    400062: L_Ring_1
+    400064: L_Ring_2
+    400066: L_Ring_3
+    400068: L_Shoulder
+    400070: L_Thumb_1
+    400072: L_Thumb_2
+    400074: L_Thumb_3
+    400076: L_Toe
+    400078: L_Wrist
+    400080: Neck
+    400082: Pelvis
+    400084: R_Ankle
+    400086: R_Clavicle
+    400088: R_Elbow
+    400090: R_Eye
+    400092: R_Eyebrow
+    400094: R_Hand
+    400096: R_Heel
+    400098: R_Hip
+    400100: R_Index_1
+    400102: R_Index_2
+    400104: R_Index_3
+    400106: R_Knee
+    400108: R_Knee_Fwoop
+    400110: R_Middle_1
+    400112: R_Middle_2
+    400114: R_Middle_3
+    400116: R_Pinky_1
+    400118: R_Pinky_2
+    400120: R_Pinky_3
+    400122: R_Ring_1
+    400124: R_Ring_2
+    400126: R_Ring_3
+    400128: R_Shoulder
+    400130: R_Thumb_1
+    400132: R_Thumb_2
+    400134: R_Thumb_3
+    400136: R_Toe
+    400138: R_Wrist
+    400140: Root
+    2100000: WindDjinn_Body_MAT
+    2100002: WindDjinn_Clothing_Mat
+    2100004: WindDjinn_Eye_Mat
+    4300000: AirElemental
+    7400000: AirElemental_Walk
+    9500000: //RootNode
+    13700000: AirElemental
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AirElemental_Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: ec76b3be9a459104aa976b4529331453,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

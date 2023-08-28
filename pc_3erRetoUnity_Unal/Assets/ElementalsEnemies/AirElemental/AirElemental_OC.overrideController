@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: AirElemental_OC
+  m_Controller: {fileID: 9100000, guid: 73e489b908f5d9349b4b0999d7c2d551, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e9f96e16289a5004ea8c6189f00b3113, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 274213e354da2ae49a598c51f79a3fd6, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: ab92c8a566954f04680eee213502ec47, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 7a8e464bd5f3b5443b1c28769b26d130, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 327ab2ee5eb06d343a113719230c9b39, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 07f5206282ecbff4b8b93bc45712d787, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: dbffb4967a0be4e4e91e8e3260c33607, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 0a5b6696c674f1a4ba195ab1d1d11f83, type: 3}

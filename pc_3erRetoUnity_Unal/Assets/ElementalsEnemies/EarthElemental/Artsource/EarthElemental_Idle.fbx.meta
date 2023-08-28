@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: e9f96e16289a5004ea8c6189f00b3113
+timeCreated: 1522256196
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Ankle_L
+    100002: Ankle_R
+    100004: ArmIK_L
+    100006: ArmIK_R
+    100008: Clavicle_control_L
+    100010: Clavicle_control_R
+    100012: Clavicle_L
+    100014: Clavicle_R
+    100016: EarthDjinn_HighRes_Mesh
+    100018: //RootNode
+    100020: Elbow_L
+    100022: Elbow_R
+    100024: ElbowDirection_L
+    100026: ElbowDirection_R
+    100028: Foot_control_L
+    100030: Foot_control_R
+    100032: Hand_control_L
+    100034: Hand_control_R
+    100036: Head
+    100038: Head_control
+    100040: Hip_L
+    100042: Hip_R
+    100044: Index1_L
+    100046: Index1_R
+    100048: Index2_L
+    100050: Index2_R
+    100052: Index3_L
+    100054: Index3_R
+    100056: Knee_L
+    100058: Knee_R
+    100060: KneeDirection_L
+    100062: KneeDirection_R
+    100064: LegIK_L
+    100066: LegIK_R
+    100068: Middle1_L
+    100070: Middle1_R
+    100072: Middle2_L
+    100074: Middle2_R
+    100076: Middle3_L
+    100078: Middle3_R
+    100080: Pelvis
+    100082: Pelvis_control
+    100084: Pinky1_L
+    100086: Pinky1_R
+    100088: Pinky2_L
+    100090: Pinky2_R
+    100092: Pinky3_L
+    100094: Pinky3_R
+    100096: Root
+    100098: Root_control
+    100100: Shoulder_L
+    100102: Shoulder_R
+    100104: Spine1
+    100106: Spine1_control
+    100108: Spine2
+    100110: Spine2_control
+    100112: Thumb1_L
+    100114: Thumb1_R
+    100116: Thumb2_L
+    100118: Thumb2_R
+    100120: Wrist_L
+    100122: Wrist_R
+    400000: Ankle_L
+    400002: Ankle_R
+    400004: ArmIK_L
+    400006: ArmIK_R
+    400008: Clavicle_control_L
+    400010: Clavicle_control_R
+    400012: Clavicle_L
+    400014: Clavicle_R
+    400016: EarthDjinn_HighRes_Mesh
+    400018: //RootNode
+    400020: Elbow_L
+    400022: Elbow_R
+    400024: ElbowDirection_L
+    400026: ElbowDirection_R
+    400028: Foot_control_L
+    400030: Foot_control_R
+    400032: Hand_control_L
+    400034: Hand_control_R
+    400036: Head
+    400038: Head_control
+    400040: Hip_L
+    400042: Hip_R
+    400044: Index1_L
+    400046: Index1_R
+    400048: Index2_L
+    400050: Index2_R
+    400052: Index3_L
+    400054: Index3_R
+    400056: Knee_L
+    400058: Knee_R
+    400060: KneeDirection_L
+    400062: KneeDirection_R
+    400064: LegIK_L
+    400066: LegIK_R
+    400068: Middle1_L
+    400070: Middle1_R
+    400072: Middle2_L
+    400074: Middle2_R
+    400076: Middle3_L
+    400078: Middle3_R
+    400080: Pelvis
+    400082: Pelvis_control
+    400084: Pinky1_L
+    400086: Pinky1_R
+    400088: Pinky2_L
+    400090: Pinky2_R
+    400092: Pinky3_L
+    400094: Pinky3_R
+    400096: Root
+    400098: Root_control
+    400100: Shoulder_L
+    400102: Shoulder_R
+    400104: Spine1
+    400106: Spine1_control
+    400108: Spine2
+    400110: Spine2_control
+    400112: Thumb1_L
+    400114: Thumb1_R
+    400116: Thumb2_L
+    400118: Thumb2_R
+    400120: Wrist_L
+    400122: Wrist_R
+    2100000: EarthDjinn_Body_Mat
+    2100002: EyeGlow_Mat
+    2100004: EarthDjinn_Accessories_Mat
+    4300000: EarthDjinn_HighRes_Mesh
+    7400000: EarthElemental_Idle
+    9500000: //RootNode
+    13700000: EarthDjinn_HighRes_Mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: EarthElemental_Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 041be2e9558e371489c0b5c8ffa50ab1,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

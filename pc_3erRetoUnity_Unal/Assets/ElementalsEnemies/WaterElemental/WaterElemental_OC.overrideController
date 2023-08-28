@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: WaterElemental_OC
+  m_Controller: {fileID: 9100000, guid: 73e489b908f5d9349b4b0999d7c2d551, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e9f96e16289a5004ea8c6189f00b3113, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 99a9af56d4a94c54f9d73f59965a381d, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: ab92c8a566954f04680eee213502ec47, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: dbb4d1e042f9b1e459d5fe6f70bb6ac4, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 327ab2ee5eb06d343a113719230c9b39, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: c3d0b9de1d6738a44a94f63ce6ec45aa, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: dbffb4967a0be4e4e91e8e3260c33607, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 421e3610d7207204788b12895a631d89, type: 3}

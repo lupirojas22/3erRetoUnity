@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: f4873a6068523404492b7cfafdce416e
+timeCreated: 1522342333
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Center
+    100002: Chest
+    100004: Fireball_J1
+    100006: Fireball_J2
+    100008: Fireball_J3
+    100010: FireElemental
+    100012: //RootNode
+    100014: group1
+    100016: group2
+    100018: Head
+    100020: HeadFire_J1
+    100022: HeadFire_J2
+    100024: L_1finger_1
+    100026: L_1finger_2
+    100028: L_1finger_3
+    100030: L_2finger_1
+    100032: L_2finger_2
+    100034: L_2finger_3
+    100036: L_Ankle
+    100038: L_Clavicle
+    100040: L_Elbow
+    100042: L_Hand
+    100044: L_Hip
+    100046: L_Knee
+    100048: L_Shoulder
+    100050: L_Thumb_1
+    100052: L_Thumb_2
+    100054: L_Thumb_3
+    100056: L_Wrist
+    100058: Neck
+    100060: Pelvis
+    100062: R_1finger_1
+    100064: R_1finger_2
+    100066: R_1finger_3
+    100068: R_2finger_1
+    100070: R_2finger_2
+    100072: R_2finger_3
+    100074: R_Ankle
+    100076: R_Clavicle
+    100078: R_Elbow
+    100080: R_Hand
+    100082: R_Hip
+    100084: R_Knee
+    100086: R_Shoulder
+    100088: R_Thumb_1
+    100090: R_Thumb_2
+    100092: R_Thumb_3
+    100094: R_Wrist
+    100096: Root
+    400000: Center
+    400002: Chest
+    400004: Fireball_J1
+    400006: Fireball_J2
+    400008: Fireball_J3
+    400010: FireElemental
+    400012: //RootNode
+    400014: group1
+    400016: group2
+    400018: Head
+    400020: HeadFire_J1
+    400022: HeadFire_J2
+    400024: L_1finger_1
+    400026: L_1finger_2
+    400028: L_1finger_3
+    400030: L_2finger_1
+    400032: L_2finger_2
+    400034: L_2finger_3
+    400036: L_Ankle
+    400038: L_Clavicle
+    400040: L_Elbow
+    400042: L_Hand
+    400044: L_Hip
+    400046: L_Knee
+    400048: L_Shoulder
+    400050: L_Thumb_1
+    400052: L_Thumb_2
+    400054: L_Thumb_3
+    400056: L_Wrist
+    400058: Neck
+    400060: Pelvis
+    400062: R_1finger_1
+    400064: R_1finger_2
+    400066: R_1finger_3
+    400068: R_2finger_1
+    400070: R_2finger_2
+    400072: R_2finger_3
+    400074: R_Ankle
+    400076: R_Clavicle
+    400078: R_Elbow
+    400080: R_Hand
+    400082: R_Hip
+    400084: R_Knee
+    400086: R_Shoulder
+    400088: R_Thumb_1
+    400090: R_Thumb_2
+    400092: R_Thumb_3
+    400094: R_Wrist
+    400096: Root
+    2100000: FireDjinn_MAT
+    2100002: FireDjinnVeil_Mat
+    2100004: FlameYellow_MAT
+    4300000: FireElemental
+    7400000: FireElemental_Walk
+    9500000: //RootNode
+    13700000: FireElemental
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: FireElemental_Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f2f10a9415664014cb9f53ee9ddc4738,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
