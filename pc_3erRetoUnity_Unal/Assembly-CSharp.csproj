@@ -56,10 +56,10 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/MonoBundle/Addins/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/ElementalsEnemies/Scripts/ScrollUv.cs" />
-    <Compile Include="Assets/ElementalsEnemies/Scripts/Preview.cs" />
-    <Compile Include="Assets/ElementalsEnemies/Scripts/AirElemental.cs" />
-    <Compile Include="Assets/ElementalsEnemies/Scripts/WaterElemental.cs" />
+    <Compile Include="Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/Scripts/WaterElemental.cs" />
+    <Compile Include="Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/Scripts/AirElemental.cs" />
+    <Compile Include="Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/Scripts/ScrollUv.cs" />
+    <Compile Include="Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/Scripts/Preview.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
