@@ -22,7 +22,7 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50375
+52326
 Successfully changed project path to: /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal
 /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -54,11 +54,11 @@ Successfully changed project path to: /Users/bryanmarin/Documents/GitHub/3erReto
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [140704630122048] Host "[IP] 192.168.0.7 [Port] 0 [Flags] 2 [Guid] 3332990500 [EditorId] 3332990500 [Version] 1048832 [Id] OSXEditor(0,MacBook-Pro-de-Bryan.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [140704630122048] Host "[IP] 192.168.0.7 [Port] 0 [Flags] 2 [Guid] 3785296673 [EditorId] 3785296673 [Version] 1048832 [Id] OSXEditor(0,MacBook-Pro-de-Bryan.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [140704630122048] Host "[IP] 192.168.0.7 [Port] 0 [Flags] 2 [Guid] 3332990500 [EditorId] 3332990500 [Version] 1048832 [Id] OSXEditor(0,MacBook-Pro-de-Bryan.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [140704630122048] Host "[IP] 192.168.0.7 [Port] 0 [Flags] 2 [Guid] 3785296673 [EditorId] 3785296673 [Version] 1048832 [Id] OSXEditor(0,MacBook-Pro-de-Bryan.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 178.18 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 134.91 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.28f1 (232e59c3f087)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.3.28f1/Unity.app/Contents/Resources/UnitySubsystems
@@ -73,52 +73,52 @@ Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2021.3.28f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2021.3.28f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
 Mono config path = '/Applications/Unity/Hub/Editor/2021.3.28f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56902
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56440
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.28f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.28f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.28f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.28f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.006252 seconds.
+Registered in 0.009720 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 124 ms
+Android Extension - Scanning For ADB Devices 158 ms
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 153.13 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 123.91 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.426 seconds
+- Completed reload, in  1.787 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1426ms)
-		BeginReloadAssembly (202ms)
+	ReloadAssembly (1788ms)
+		BeginReloadAssembly (406ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (1046ms)
-			LoadAssemblies (205ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1152ms)
+			LoadAssemblies (409ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (212ms)
+			SetupTypeCache (233ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (52ms)
-			SetupLoadedEditorAssemblies (687ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (800ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (343ms)
+				InitializePlatformSupportModulesInManaged (501ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (153ms)
+				RefreshPlugins (124ms)
 				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (126ms)
-				ProcessInitializeOnLoadMethodAttributes (61ms)
+				ProcessInitializeOnLoadAttributes (117ms)
+				ProcessInitializeOnLoadMethodAttributes (56ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.014834 seconds.
+Registered in 0.016065 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
@@ -126,47 +126,47 @@ Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 127.35 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 122.87 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.010 seconds
+- Completed reload, in  1.744 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2011ms)
-		BeginReloadAssembly (179ms)
+	ReloadAssembly (1746ms)
+		BeginReloadAssembly (157ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (8ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (43ms)
-		EndReloadAssembly (1660ms)
-			LoadAssemblies (185ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (1438ms)
+			LoadAssemblies (162ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (477ms)
+			SetupTypeCache (416ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (98ms)
-			SetupLoadedEditorAssemblies (774ms)
+			RebuildScriptCaches (85ms)
+			SetupLoadedEditorAssemblies (659ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (28ms)
+				InitializePlatformSupportModulesInManaged (23ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (127ms)
-				BeforeProcessingInitializeOnLoad (182ms)
-				ProcessInitializeOnLoadAttributes (310ms)
-				ProcessInitializeOnLoadMethodAttributes (122ms)
-				AfterProcessingInitializeOnLoad (3ms)
+				RefreshPlugins (123ms)
+				BeforeProcessingInitializeOnLoad (110ms)
+				ProcessInitializeOnLoadAttributes (288ms)
+				ProcessInitializeOnLoadMethodAttributes (112ms)
+				AfterProcessingInitializeOnLoad (2ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (5ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launching external process: /Applications/Unity/Hub/Editor/2021.3.28f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.12 seconds
-Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.11 seconds
+Refreshing native plugins compatible for Editor in 1.12 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4716 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 32 unused Assets / (0.7 MB). Loaded Objects now: 5172.
-Memory consumption went from 187.2 MB to 186.6 MB.
-Total: 4.675779 ms (FindLiveObjects: 0.421608 ms CreateObjectMapping: 0.308165 ms MarkObjects: 3.414446 ms  DeleteObjects: 0.530467 ms)
+Unloading 4720 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (0.7 MB). Loaded Objects now: 5180.
+Memory consumption went from 188.2 MB to 187.5 MB.
+Total: 8.220446 ms (FindLiveObjects: 0.497556 ms CreateObjectMapping: 0.293475 ms MarkObjects: 6.672977 ms  DeleteObjects: 0.753991 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -179,25 +179,13 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 6038.242900 seconds.
-  path: Assets/UniversalRenderPipelineGlobalSettings.asset
-  artifactKey: Guid(18dc0cd2c080841dea60987a38ce93fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UniversalRenderPipelineGlobalSettings.asset using Guid(18dc0cd2c080841dea60987a38ce93fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eecc253734895facb66926253515a97') in 0.200593 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/Readme.asset
-  artifactKey: Guid(8105016687592461f977c054a80ce2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Readme.asset using Guid(8105016687592461f977c054a80ce2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f2f2b655bf21bdea72856b1c39a4a32') in 0.002664 seconds 
-========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 4.43 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 3.07 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 25 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 25 unused Assets / (0.6 MB). Loaded Objects now: 5173.
-Memory consumption went from 90.0 MB to 89.3 MB.
-Total: 5.223189 ms (FindLiveObjects: 0.530546 ms CreateObjectMapping: 0.523967 ms MarkObjects: 3.677974 ms  DeleteObjects: 0.489519 ms)
+Unloading 25 unused Assets / (0.6 MB). Loaded Objects now: 5180.
+Memory consumption went from 86.7 MB to 86.0 MB.
+Total: 4.558355 ms (FindLiveObjects: 0.407910 ms CreateObjectMapping: 0.281375 ms MarkObjects: 3.113956 ms  DeleteObjects: 0.754059 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -212,14 +200,134 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 52.659693 seconds.
-  path: Assets/pc_3erRetoUnity_Unal/Character
-  artifactKey: Guid(4b9de356b17ef4b40aa208f98c3f3801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/pc_3erRetoUnity_Unal/Character using Guid(4b9de356b17ef4b40aa208f98c3f3801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a80ba5d85b34ab0096b32a2258a10e4e') in 0.001220 seconds 
+  Time since last request: 19671.636641 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/Elemental_Demo_Ground_Mat.mat
+  artifactKey: Guid(1be42e967b1e67b4e882c6148267dcbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/Elemental_Demo_Ground_Mat.mat using Guid(1be42e967b1e67b4e882c6148267dcbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bd4c08fb2fae4a2a3e91db268fa6d52') in 0.237540 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003138 seconds.
+Registered in 0.004574 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.623 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1624ms)
+		BeginReloadAssembly (254ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (14ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (112ms)
+		EndReloadAssembly (1234ms)
+			LoadAssemblies (149ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (419ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (66ms)
+			SetupLoadedEditorAssemblies (457ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (28ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (84ms)
+				ProcessInitializeOnLoadAttributes (234ms)
+				ProcessInitializeOnLoadMethodAttributes (108ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4596 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (0.7 MB). Loaded Objects now: 5184.
+Memory consumption went from 182.9 MB to 182.2 MB.
+Total: 4.335917 ms (FindLiveObjects: 0.385903 ms CreateObjectMapping: 0.280791 ms MarkObjects: 3.090185 ms  DeleteObjects: 0.577888 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:CustomObjectIndexerAttribute: 6b0e35c9178b02a6363f3721b7b8e397 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 22.712999 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Scenes
+  artifactKey: Guid(ce1f5ff6669d2104b9dc699e20eec3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Scenes using Guid(ce1f5ff6669d2104b9dc699e20eec3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd02374c747adb13f5047cb17a94624a5') in 0.022956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.410656 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/Elemental_Demo.unity
+  artifactKey: Guid(100b3fa48e6e7094e8992147e065ae96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/Elemental_Demo.unity using Guid(100b3fa48e6e7094e8992147e065ae96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '477fd5713d2d1885f816c56df55656d4') in 0.002154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 55.855898 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Scenes/MainScene.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Scenes/MainScene.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7599b24f9ae84a1ba3ae837e2593115') in 0.004686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 94.296906 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/AirElemental/Artsource/Materials
+  artifactKey: Guid(2bdd43829cda2f24fb96b3411567fd87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/AirElemental/Artsource/Materials using Guid(2bdd43829cda2f24fb96b3411567fd87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4931bd09ae30a28c56cc63b18b98c2ab') in 0.014386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.922966 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/AirElemental/Artsource/Materials/AirElemental_Accessories.mat
+  artifactKey: Guid(c95207a18b514ae46a58a07343882310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/AirElemental/Artsource/Materials/AirElemental_Accessories.mat using Guid(c95207a18b514ae46a58a07343882310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57fd21eb68d4eb2dc6482198dfa8005c') in 0.040044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/AirElemental/Artsource/Materials/AirElemental_Accessories_C.tga
+  artifactKey: Guid(c2adf32a778f03a4681e6ecb3c74c79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/AirElemental/Artsource/Materials/AirElemental_Accessories_C.tga using Guid(c2adf32a778f03a4681e6ecb3c74c79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '464065a18052ed423d01c0d7dbc4e045') in 1.516870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/AirElemental/Artsource/Materials/AirElemental_Eye_C.tga
+  artifactKey: Guid(1a281132cc1bc8342878f2a5698379b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/AirElemental/Artsource/Materials/AirElemental_Eye_C.tga using Guid(1a281132cc1bc8342878f2a5698379b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5edfad87207e738ac711cdb23d2fccc') in 0.004819 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/AirElemental/Artsource/Materials/AirElemental_Eyes.mat
+  artifactKey: Guid(cfcd647934fa91c4fade060ae188fd7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/AirElemental/Artsource/Materials/AirElemental_Eyes.mat using Guid(cfcd647934fa91c4fade060ae188fd7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '657c44ede8119298161fc97fb623bd43') in 0.004263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/AirElemental/Artsource/Materials/AirElemental_Body.mat
+  artifactKey: Guid(ffbbf54231860bb49a4a69eaf0ba06dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/AirElemental/Artsource/Materials/AirElemental_Body.mat using Guid(ffbbf54231860bb49a4a69eaf0ba06dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '503b109344b0e789c1bf3b11b7e8f421') in 0.003166 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/AirElemental/Artsource/Materials/AirElemental_Body_C.tga
+  artifactKey: Guid(54df3fd31916b164cad89c9480e154e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/ElementalsEnemies/AirElemental/Artsource/Materials/AirElemental_Body_C.tga using Guid(54df3fd31916b164cad89c9480e154e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '410f24716edb75670173ce104b05e69d') in 0.004212 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004502 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
@@ -230,40 +338,40 @@ Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 1.07 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.049 seconds
+- Completed reload, in  1.960 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2050ms)
-		BeginReloadAssembly (329ms)
+	ReloadAssembly (1962ms)
+		BeginReloadAssembly (456ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (16ms)
+			DisableScriptedObjects (29ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (152ms)
-		EndReloadAssembly (1580ms)
-			LoadAssemblies (182ms)
+			CreateAndSetChildDomain (193ms)
+		EndReloadAssembly (1371ms)
+			LoadAssemblies (257ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (577ms)
+			SetupTypeCache (466ms)
 			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (78ms)
-			SetupLoadedEditorAssemblies (572ms)
+			RebuildScriptCaches (71ms)
+			SetupLoadedEditorAssemblies (504ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (36ms)
-				SetLoadedEditorAssemblies (1ms)
+				InitializePlatformSupportModulesInManaged (29ms)
+				SetLoadedEditorAssemblies (2ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (96ms)
-				ProcessInitializeOnLoadAttributes (302ms)
-				ProcessInitializeOnLoadMethodAttributes (133ms)
-				AfterProcessingInitializeOnLoad (2ms)
+				BeforeProcessingInitializeOnLoad (89ms)
+				ProcessInitializeOnLoadAttributes (256ms)
+				ProcessInitializeOnLoadMethodAttributes (125ms)
+				AfterProcessingInitializeOnLoad (3ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (19ms)
+			AwakeInstancesAfterBackupRestoration (26ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.97 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 3.69 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4596 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 25 unused Assets / (0.7 MB). Loaded Objects now: 5180.
-Memory consumption went from 182.0 MB to 181.4 MB.
-Total: 6.483494 ms (FindLiveObjects: 0.848650 ms CreateObjectMapping: 0.428280 ms MarkObjects: 4.317369 ms  DeleteObjects: 0.888076 ms)
+Unloading 25 unused Assets / (0.6 MB). Loaded Objects now: 5187.
+Memory consumption went from 187.0 MB to 186.3 MB.
+Total: 5.267379 ms (FindLiveObjects: 0.448576 ms CreateObjectMapping: 0.243770 ms MarkObjects: 4.081516 ms  DeleteObjects: 0.492080 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -278,26 +386,314 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 198.677405 seconds.
-  path: Assets/Elementals
-  artifactKey: Guid(b7eeb46540f37417683b7b80d7881aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Elementals using Guid(b7eeb46540f37417683b7b80d7881aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac16faf1d5dfd2337aedde3ab1a7750') in 0.012537 seconds 
+  Time since last request: 481.444520 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Utilities/BlitColorAndDepth.hlsl
+  artifactKey: Guid(cdea49463de0449b48cacd6a3925dcf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Utilities/BlitColorAndDepth.hlsl using Guid(cdea49463de0449b48cacd6a3925dcf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dda25ff6262f0691aa017459056b4cf') in 0.487607 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.714843 seconds.
-  path: Assets/ElementalsEnemies
-  artifactKey: Guid(b7eeb46540f37417683b7b80d7881aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies using Guid(b7eeb46540f37417683b7b80d7881aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3642c38ebae014983c871ac43ba4e2a9') in 0.001047 seconds 
+  Time since last request: 5.571313 seconds.
+  path: Assets/Scanta/Zeamays Fighter/Models/ill.fbx
+  artifactKey: Guid(c907f1036a01e4bdca96b61d1cca0b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scanta/Zeamays Fighter/Models/ill.fbx using Guid(c907f1036a01e4bdca96b61d1cca0b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93dc725c5933c16dd469de59b6570f5d') in 0.244792 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.887425 seconds.
-  path: Assets/ElementalsEnemies/Elemental_Demo_Ground_Mat.mat
-  artifactKey: Guid(1be42e967b1e67b4e882c6148267dcbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/Elemental_Demo_Ground_Mat.mat using Guid(1be42e967b1e67b4e882c6148267dcbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dd20a764f3408021917630547e59ec0') in 0.160735 seconds 
+  Time since last request: 0.000203 seconds.
+  path: Assets/Scanta/Zeamays Fighter/Models/Attack01.fbx
+  artifactKey: Guid(0182ba30a17d9404eb5aaeea0dafefd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scanta/Zeamays Fighter/Models/Attack01.fbx using Guid(0182ba30a17d9404eb5aaeea0dafefd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1778e4874ef894f53523da8456bdbf95') in 0.021019 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Packages/com.unity.render-pipelines.core/Editor/PostProcessing/LensFlareResource/PolygonFlareThumbnail@2x.png
+  artifactKey: Guid(0047263fa58f91d49a61936e94358829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Editor/PostProcessing/LensFlareResource/PolygonFlareThumbnail@2x.png using Guid(0047263fa58f91d49a61936e94358829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f75d801735f3c48f9239a5eafc3abe89') in 1.591212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Scanta/Zeamays Fighter/Models/Walking.fbx
+  artifactKey: Guid(668864d6676174f33a4b1730ad8ec6d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scanta/Zeamays Fighter/Models/Walking.fbx using Guid(668864d6676174f33a4b1730ad8ec6d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90f3e12f7da3daf64ad171b82354936b') in 0.011340 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Scanta/Zeamays Fighter/Models/StandingUp.fbx
+  artifactKey: Guid(3488acea9187b4122b3568edf0da533a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scanta/Zeamays Fighter/Models/StandingUp.fbx using Guid(3488acea9187b4122b3568edf0da533a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd73049bc7dd51463b2cf22cca152a6c6') in 0.011653 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Scanta/Zeamays Fighter/Models/Hit Reaction.fbx
+  artifactKey: Guid(c3dfbf5ec9a38436eb3d63d735214961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scanta/Zeamays Fighter/Models/Hit Reaction.fbx using Guid(c3dfbf5ec9a38436eb3d63d735214961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4636f0b63dcd9dac2935588e168303c') in 0.010903 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Scanta/Zeamays Fighter/Models/Excited.fbx
+  artifactKey: Guid(a7dc28bbad2c84e5c8248ba9a41f748a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scanta/Zeamays Fighter/Models/Excited.fbx using Guid(a7dc28bbad2c84e5c8248ba9a41f748a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eef55c45e42fa5f18557313e7b0a7c4') in 0.011635 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Scanta/Zeamays Fighter/Models/Running.fbx
+  artifactKey: Guid(9c2f271d68f07425ca39e22b7bdc13f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scanta/Zeamays Fighter/Models/Running.fbx using Guid(9c2f271d68f07425ca39e22b7bdc13f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d2ec2c55392f8b28f9e51db2ecbc247') in 0.010129 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Packages/com.unity.render-pipelines.core/Editor/PostProcessing/LensFlareResource/PolygonFlareThumbnail.png
+  artifactKey: Guid(f0326f07dd50365439f552e7f29218e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Editor/PostProcessing/LensFlareResource/PolygonFlareThumbnail.png using Guid(f0326f07dd50365439f552e7f29218e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '030f1b8508863b4f13e305cddda4f3b9') in 0.004168 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Scanta/Zeamays Fighter/Models/Jump.fbx
+  artifactKey: Guid(2fe8dadb005894a6ba7d6505cbc90e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scanta/Zeamays Fighter/Models/Jump.fbx using Guid(2fe8dadb005894a6ba7d6505cbc90e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13b4edb48c5aa3c49a82d13ca8b674bc') in 0.010938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Scanta/Zeamays Fighter/Models/Taunt.fbx
+  artifactKey: Guid(0e19ca473e3c04b1dbabc39f2e29a7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scanta/Zeamays Fighter/Models/Taunt.fbx using Guid(0e19ca473e3c04b1dbabc39f2e29a7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41f2a7b2bd51b868496f43e5c3d008e9') in 0.011549 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Scanta/Zeamays Fighter/Models/Death.fbx
+  artifactKey: Guid(6409bee34a80047758d528da2403be5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scanta/Zeamays Fighter/Models/Death.fbx using Guid(6409bee34a80047758d528da2403be5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb1d6fac37a35a6e77f9bf1c2142a470') in 0.012556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Scanta/Zeamays Fighter/Models/Attack02.fbx
+  artifactKey: Guid(2e5f00cd5b19b40aaba60b1a814c5d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scanta/Zeamays Fighter/Models/Attack02.fbx using Guid(2e5f00cd5b19b40aaba60b1a814c5d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2893581eddac9482a3ca0ec85e121b5') in 0.012247 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Scanta/Zeamays Fighter/Models/Scared.fbx
+  artifactKey: Guid(1c7a7508fa924499ea34cb7e1009e9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scanta/Zeamays Fighter/Models/Scared.fbx using Guid(1c7a7508fa924499ea34cb7e1009e9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f9bf550087f589b7af8467f52d4ca93') in 0.009380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Packages/com.unity.shadergraph/ShaderGraphLibrary/Nature/SpeedTree8InterpolatedNormals.shadersubgraph
+  artifactKey: Guid(b04441f4a83ad224d92d547d170c366b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.shadergraph/ShaderGraphLibrary/Nature/SpeedTree8InterpolatedNormals.shadersubgraph using Guid(b04441f4a83ad224d92d547d170c366b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d3a83118de4d1f601da1fd053172594') in 0.119495 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Scanta/Zeamays Fighter/Models/Defeated.fbx
+  artifactKey: Guid(280042745292046fcb2f0238e82331c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scanta/Zeamays Fighter/Models/Defeated.fbx using Guid(280042745292046fcb2f0238e82331c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bb0b0c441aa72f36c41233f1ffcce41') in 0.010040 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.402520 seconds.
+  path: Packages/com.unity.visualscripting/Editor/VisualScripting.Core/IconMap/FlowGraph@32x.png
+  artifactKey: Guid(0ccb256674ae837499e788d1cca73948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualscripting/Editor/VisualScripting.Core/IconMap/FlowGraph@32x.png using Guid(0ccb256674ae837499e788d1cca73948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c15d7c5e5aa25fd5e7182d9ba07f3568') in 0.006455 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Packages/com.unity.visualscripting/Editor/VisualScripting.Core/IconMap/FlowMachine@32x.png
+  artifactKey: Guid(f723b77167d184d4a8ab528db8b55744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualscripting/Editor/VisualScripting.Core/IconMap/FlowMachine@32x.png using Guid(f723b77167d184d4a8ab528db8b55744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '000277f77eda2e949b0fbb76d9cfe76e') in 0.006507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.789605 seconds.
+  path: Packages/com.unity.visualscripting/Graphics/FlowPorts_12x.psd
+  artifactKey: Guid(cdd996c0455369d40a3c5c465015834f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualscripting/Graphics/FlowPorts_12x.psd using Guid(cdd996c0455369d40a3c5c465015834f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84f72ee9ffb7c3218924fc946586ab86') in 1.470674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Packages/com.unity.visualscripting/Editor/VisualScripting.Flow/Unity.VisualScripting.Flow.Editor.asmdef
+  artifactKey: Guid(23f3c6063e13e4fd9addce3606ff4e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualscripting/Editor/VisualScripting.Flow/Unity.VisualScripting.Flow.Editor.asmdef using Guid(23f3c6063e13e4fd9addce3606ff4e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63ed09724a8b755979f688d999bdeb94') in 0.105192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Packages/com.unity.visualscripting/Graphics/FlowPorts_24x.psd
+  artifactKey: Guid(fb8aec2313da2234687b591ff0c0e622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualscripting/Graphics/FlowPorts_24x.psd using Guid(fb8aec2313da2234687b591ff0c0e622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c9fc3202241b5ec3eeacf1559d16e7f') in 0.005086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Packages/com.unity.visualscripting/Runtime/VisualScripting.Flow/Unity.VisualScripting.Flow.asmdef
+  artifactKey: Guid(ea715009a4efd4c6cbc85be3ae097dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualscripting/Runtime/VisualScripting.Flow/Unity.VisualScripting.Flow.asmdef using Guid(ea715009a4efd4c6cbc85be3ae097dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be6a1011660b7d141a22163e5fc6fe94') in 0.001816 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 92.541193 seconds.
+  path: Assets/Scanta/Zeamays Fighter/AnimatorController
+  artifactKey: Guid(b67858959e86e493a83aa02ef0a728c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scanta/Zeamays Fighter/AnimatorController using Guid(b67858959e86e493a83aa02ef0a728c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7c13e990009b602c3cf5fc2e4cc79f6') in 0.004270 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.345475 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter
+  artifactKey: Guid(d01a6897211b04997a497a081b1dee60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter using Guid(d01a6897211b04997a497a081b1dee60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4e619dd9817478e895967f646f868fe') in 0.003014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.628181 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs
+  artifactKey: Guid(e845a8e0aad744e58ace7d70c9a099b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs using Guid(e845a8e0aad744e58ace7d70c9a099b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5156a2b877bc3d968e99bbfd1bb370e1') in 0.002400 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.211709 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Attack01.prefab
+  artifactKey: Guid(8adc24504e08949689af5987575ca2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Attack01.prefab using Guid(8adc24504e08949689af5987575ca2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a95de2eddba3659115e07bcba6efe9a') in 0.142890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Walking.prefab
+  artifactKey: Guid(40bbc21cd00e84c91bf6a11ddeedb543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Walking.prefab using Guid(40bbc21cd00e84c91bf6a11ddeedb543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6d5fc1f8e04613156d2e2a03236de76') in 0.013136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Attack02.prefab
+  artifactKey: Guid(f12548b88f9ad4bbab8d352486e4ffe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Attack02.prefab using Guid(f12548b88f9ad4bbab8d352486e4ffe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c47e81160bfdd58103b0101243e56470') in 0.007403 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/ill.prefab
+  artifactKey: Guid(01f7805ea1b294a6897095b9513dbf57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/ill.prefab using Guid(01f7805ea1b294a6897095b9513dbf57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '170d9ebbf97325d66fdaa0a5188b9d2a') in 0.079840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Hit Reaction.prefab
+  artifactKey: Guid(2b27c33811f3549e5b5dd3ca8d8bbd68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Hit Reaction.prefab using Guid(2b27c33811f3549e5b5dd3ca8d8bbd68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2e1ef53ff93cbc25aa8463b03735df8') in 0.006075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Running.prefab
+  artifactKey: Guid(cbb61bd1b394a454fb48a5937a97b4c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Running.prefab using Guid(cbb61bd1b394a454fb48a5937a97b4c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d9b3bf0d5caa0dab986bee3fb3280c5') in 0.005816 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Scared.prefab
+  artifactKey: Guid(335be6389f0dd47f888c9db3d41347be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Scared.prefab using Guid(335be6389f0dd47f888c9db3d41347be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d12fa2a495e3ebbd7966932a37de5f2') in 0.006498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/StandingUp.prefab
+  artifactKey: Guid(750fc2802804e46a69732c5e4b01c814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/StandingUp.prefab using Guid(750fc2802804e46a69732c5e4b01c814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e372a0505c56724747a6b4ada8bb1bd') in 0.005301 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Taunt.prefab
+  artifactKey: Guid(7a3cbc711da7b437384a4aa1207ad5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Taunt.prefab using Guid(7a3cbc711da7b437384a4aa1207ad5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '401f0d687d06f8273729e1c4d9fa5bf7') in 0.005421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Excited.prefab
+  artifactKey: Guid(1ee677ff0df56481aa2f231f6aa7b8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Excited.prefab using Guid(1ee677ff0df56481aa2f231f6aa7b8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b54f2d252ab34ef82b1d872de177391') in 0.005695 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Death.prefab
+  artifactKey: Guid(1303cee17342149f0b2d0d2eb7bbc341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Death.prefab using Guid(1303cee17342149f0b2d0d2eb7bbc341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edaf15f6b65ded5df88d09fc465edeac') in 0.006977 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Jump.prefab
+  artifactKey: Guid(bc445afafeb8e4094abbc834b5055075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Jump.prefab using Guid(bc445afafeb8e4094abbc834b5055075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c5bd25461f887a577593b5fb26b97eb') in 0.008492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Defeated.prefab
+  artifactKey: Guid(62a96944931544710aee7308d6303e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Prefabs/Defeated.prefab using Guid(62a96944931544710aee7308d6303e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad88e8d0de37aadc80cb14fe43398f3d') in 0.005869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.128715 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Texture
+  artifactKey: Guid(8868ed4e62e9f4fbaa192549e490ccf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Texture using Guid(8868ed4e62e9f4fbaa192549e490ccf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '351e20ce5204c3f0cab52d7e5384740f') in 0.003629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.218432 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Texture/Zeamaysfighter_AO.png
+  artifactKey: Guid(09abbf2d1d4cf40f595557a5c820c91b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Texture/Zeamaysfighter_AO.png using Guid(09abbf2d1d4cf40f595557a5c820c91b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '118e8413cc167c09e39c8c7f01be90ad') in 0.020974 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Texture/Zeamaysfighter_diffuse.png
+  artifactKey: Guid(7dc5917d3e7234fd6a39185de470c4c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Texture/Zeamaysfighter_diffuse.png using Guid(7dc5917d3e7234fd6a39185de470c4c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0622f5b6a78f71ea057f313917f2cebb') in 0.009235 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Texture/Zeamaysfighter_NM.jpg
+  artifactKey: Guid(4c5e4d2732d7d4951984134c53063ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Texture/Zeamaysfighter_NM.jpg using Guid(4c5e4d2732d7d4951984134c53063ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55537b4de7a0bade740fc24553341019') in 1.489409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.728014 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Scene
+  artifactKey: Guid(f50fe884e7b5849cab3710189217d71a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Scene using Guid(f50fe884e7b5849cab3710189217d71a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '602352a4d774405fe5d0bff831963b61') in 0.002076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.117840 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models
+  artifactKey: Guid(26cd3343a27d8454f89c022e7e7d1634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models using Guid(26cd3343a27d8454f89c022e7e7d1634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebefb6f8a7680242c81512f76c6908dd') in 0.002286 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.014140 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Materials
+  artifactKey: Guid(6bf0158a7319b491a90cabc2f7f37ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Materials using Guid(6bf0158a7319b491a90cabc2f7f37ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78b7e9b8914d116b817eefa5f3cd0c23') in 0.001507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.198281 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Materials/ZeamaysFighter_Albedo.mat
+  artifactKey: Guid(1c22dc2bf8e7b4625861a9d1fb7aed7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Materials/ZeamaysFighter_Albedo.mat using Guid(1c22dc2bf8e7b4625861a9d1fb7aed7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd794c86e4bdbba89455c740e504bd25b') in 0.022555 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 48.171762 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/Materials
+  artifactKey: Guid(c5443ee218724491881167527ea1888e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/Materials using Guid(c5443ee218724491881167527ea1888e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '635c834311e89196e42c99cf7a559715') in 0.001269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.495219 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/Materials/Corn_diffuse.mat
+  artifactKey: Guid(c7f66b9f994254ddeb0ddcd643b209d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/Materials/Corn_diffuse.mat using Guid(c7f66b9f994254ddeb0ddcd643b209d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '854742fe61817842b2d7101df7157012') in 0.013524 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5369.036998 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Scene/ZeamaysFighter_WalkingDemo.unity
+  artifactKey: Guid(9688c17e0ea7e4817a5864f908b4318c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Scene/ZeamaysFighter_WalkingDemo.unity using Guid(9688c17e0ea7e4817a5864f908b4318c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '656096f75e567d751bbc1248a4db290f') in 0.052408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.367943 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/AnimatorController/Walking.controller
+  artifactKey: Guid(5299f00ba121a4d698dac2b4fb04032a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/AnimatorController/Walking.controller using Guid(5299f00ba121a4d698dac2b4fb04032a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c25057edda10467ddf27d89336de880e') in 0.365666 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.004923 seconds.
+Registered in 0.006685 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
@@ -305,43 +701,43 @@ Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.39 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.384 seconds
+- Completed reload, in  2.356 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1385ms)
-		BeginReloadAssembly (184ms)
+	ReloadAssembly (2363ms)
+		BeginReloadAssembly (712ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
+			DisableScriptedObjects (70ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (72ms)
-		EndReloadAssembly (1085ms)
-			LoadAssemblies (105ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (383ms)
+			CreateAndSetChildDomain (316ms)
+		EndReloadAssembly (1495ms)
+			LoadAssemblies (292ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (511ms)
 			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (59ms)
-			SetupLoadedEditorAssemblies (405ms)
+			RebuildScriptCaches (78ms)
+			SetupLoadedEditorAssemblies (547ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (24ms)
+				InitializePlatformSupportModulesInManaged (32ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (77ms)
-				ProcessInitializeOnLoadAttributes (208ms)
-				ProcessInitializeOnLoadMethodAttributes (92ms)
-				AfterProcessingInitializeOnLoad (2ms)
+				BeforeProcessingInitializeOnLoad (95ms)
+				ProcessInitializeOnLoadAttributes (287ms)
+				ProcessInitializeOnLoadMethodAttributes (129ms)
+				AfterProcessingInitializeOnLoad (3ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (15ms)
+			AwakeInstancesAfterBackupRestoration (26ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.56 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 4.77 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4596 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 25 unused Assets / (0.6 MB). Loaded Objects now: 5185.
-Memory consumption went from 186.5 MB to 185.8 MB.
-Total: 4.458447 ms (FindLiveObjects: 0.472489 ms CreateObjectMapping: 0.415278 ms MarkObjects: 3.157212 ms  DeleteObjects: 0.411972 ms)
+Unloading 25 unused Assets / (0.7 MB). Loaded Objects now: 5190.
+Memory consumption went from 224.2 MB to 223.5 MB.
+Total: 9.829320 ms (FindLiveObjects: 0.683055 ms CreateObjectMapping: 0.824276 ms MarkObjects: 6.898017 ms  DeleteObjects: 1.422241 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -356,163 +752,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.624774 seconds.
-  path: Assets/ElementalsEnemies/AirElemental
-  artifactKey: Guid(cc082c34096e49d4c967c08681516a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/AirElemental using Guid(cc082c34096e49d4c967c08681516a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6858d70d1ef7c458759954a747eca8e3') in 0.008628 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.415649 seconds.
-  path: Assets/ElementalsEnemies/AirElemental/AirElemental.prefab
-  artifactKey: Guid(6a5e314b379d0be40876cdab3a90464f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/AirElemental/AirElemental.prefab using Guid(6a5e314b379d0be40876cdab3a90464f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56f9855ff0e33836cced483dceaa2af0') in 0.109072 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000129 seconds.
-  path: Assets/ElementalsEnemies/AirElemental/AirElemental_OC.overrideController
-  artifactKey: Guid(07a005b219352404e9e59e7ed50c69dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/AirElemental/AirElemental_OC.overrideController using Guid(07a005b219352404e9e59e7ed50c69dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd46c8733263fbed9b6af455dcb85ced3') in 0.135342 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.809846 seconds.
-  path: Assets/ElementalsEnemies/AirElemental/Artsource
-  artifactKey: Guid(c65429db4adef2f419c33857a1ef4c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/AirElemental/Artsource using Guid(c65429db4adef2f419c33857a1ef4c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff01c9a6bd91d823a9eb7104756411df') in 0.001045 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.050437 seconds.
-  path: Assets/ElementalsEnemies/AirElemental/Artsource/AirElemental.fbx
-  artifactKey: Guid(ec76b3be9a459104aa976b4529331453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/AirElemental/Artsource/AirElemental.fbx using Guid(ec76b3be9a459104aa976b4529331453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1880cab6fb61e11653892397900b39b0') in 0.116987 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000103 seconds.
-  path: Assets/ElementalsEnemies/AirElemental/Artsource/AirElemental_Idle02.fbx
-  artifactKey: Guid(7a8e464bd5f3b5443b1c28769b26d130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/AirElemental/Artsource/AirElemental_Idle02.fbx using Guid(7a8e464bd5f3b5443b1c28769b26d130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e0cc0bbcb4822421d7a9e313dd27cce') in 0.007643 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000079 seconds.
-  path: Assets/ElementalsEnemies/AirElemental/Artsource/AirElemental_Run.fbx
-  artifactKey: Guid(07f5206282ecbff4b8b93bc45712d787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/AirElemental/Artsource/AirElemental_Run.fbx using Guid(07f5206282ecbff4b8b93bc45712d787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de6bd20b1e6a6682b62768ad9fbef551') in 0.003997 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000060 seconds.
-  path: Assets/ElementalsEnemies/AirElemental/Artsource/AirElemental_Walk.fbx
-  artifactKey: Guid(0a5b6696c674f1a4ba195ab1d1d11f83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/AirElemental/Artsource/AirElemental_Walk.fbx using Guid(0a5b6696c674f1a4ba195ab1d1d11f83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b054c5d7eaa48c06dfc8c5802d992f8') in 0.004059 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000090 seconds.
-  path: Assets/ElementalsEnemies/AirElemental/Artsource/AirElemental_Idle.fbx
-  artifactKey: Guid(274213e354da2ae49a598c51f79a3fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/AirElemental/Artsource/AirElemental_Idle.fbx using Guid(274213e354da2ae49a598c51f79a3fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3653bd2f9333beed28e08550bd8e440a') in 0.005164 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 31.186503 seconds.
-  path: Assets/ElementalsEnemies/EarthElemental
-  artifactKey: Guid(d966a4d2280497f43a76e87ebefaf7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/EarthElemental using Guid(d966a4d2280497f43a76e87ebefaf7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e36a72374d87a3d5acff6b032108a479') in 0.002728 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.091397 seconds.
-  path: Assets/ElementalsEnemies/EarthElemental/EarthElemental.prefab
-  artifactKey: Guid(5dd2835ad91608542b7b38e6debf274f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/EarthElemental/EarthElemental.prefab using Guid(5dd2835ad91608542b7b38e6debf274f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '498e16eb6959774fd4afdac6a0421c3b') in 0.015884 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000083 seconds.
-  path: Assets/ElementalsEnemies/EarthElemental/EarthElemental_OC.overrideController
-  artifactKey: Guid(e0a8ba3958fd1634eb56ffcc32fa2d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/EarthElemental/EarthElemental_OC.overrideController using Guid(e0a8ba3958fd1634eb56ffcc32fa2d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '105408634ac857dd90539f4eb17de1d6') in 0.018312 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.639815 seconds.
-  path: Assets/ElementalsEnemies/EarthElemental/Artsource
-  artifactKey: Guid(f2bbadf395b92a64890e4aa304160c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/EarthElemental/Artsource using Guid(f2bbadf395b92a64890e4aa304160c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a822b88e053f205de00f432814f5729') in 0.002947 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.095197 seconds.
-  path: Assets/ElementalsEnemies/EarthElemental/Artsource/EarthElemental.fbx
-  artifactKey: Guid(041be2e9558e371489c0b5c8ffa50ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/EarthElemental/Artsource/EarthElemental.fbx using Guid(041be2e9558e371489c0b5c8ffa50ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b640a41890cb8ea318d2481a8bb838e') in 0.004408 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000101 seconds.
-  path: Assets/ElementalsEnemies/EarthElemental/Artsource/EarthElemental_Run.fbx
-  artifactKey: Guid(327ab2ee5eb06d343a113719230c9b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/EarthElemental/Artsource/EarthElemental_Run.fbx using Guid(327ab2ee5eb06d343a113719230c9b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d7f8fd4f39ed70e222608cddde63d31') in 0.006803 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000105 seconds.
-  path: Assets/ElementalsEnemies/EarthElemental/Artsource/EarthElemental_Idle.fbx
-  artifactKey: Guid(e9f96e16289a5004ea8c6189f00b3113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/EarthElemental/Artsource/EarthElemental_Idle.fbx using Guid(e9f96e16289a5004ea8c6189f00b3113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68e6da0a5f2cfd7a0011a7e965b6add7') in 0.009892 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000151 seconds.
-  path: Assets/ElementalsEnemies/EarthElemental/Artsource/EarthElemental_Walk.fbx
-  artifactKey: Guid(dbffb4967a0be4e4e91e8e3260c33607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/EarthElemental/Artsource/EarthElemental_Walk.fbx using Guid(dbffb4967a0be4e4e91e8e3260c33607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '654873692fb96184660e09ef9c80fbc5') in 0.010561 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000106 seconds.
-  path: Assets/ElementalsEnemies/EarthElemental/Artsource/EarthElemental_Idle02.fbx
-  artifactKey: Guid(ab92c8a566954f04680eee213502ec47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/EarthElemental/Artsource/EarthElemental_Idle02.fbx using Guid(ab92c8a566954f04680eee213502ec47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '498389754e8a4306b9f3a770111bf8cd') in 0.008745 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 8.001224 seconds.
-  path: Assets/ElementalsEnemies/EarthElemental/Artsource/Materials
-  artifactKey: Guid(3e858f57be4087241a82e02b28ac85bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/EarthElemental/Artsource/Materials using Guid(3e858f57be4087241a82e02b28ac85bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23d41edca7f3584b7e2e201fdc0fa2ab') in 0.002991 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.091824 seconds.
-  path: Assets/ElementalsEnemies/EarthElemental/Artsource/Materials/EarthElemental_Accessories.mat
-  artifactKey: Guid(71472db6694850542894dc18e2772079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/EarthElemental/Artsource/Materials/EarthElemental_Accessories.mat using Guid(71472db6694850542894dc18e2772079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9449fe3fe09c436189169d6bd61b1f52') in 0.011036 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000128 seconds.
-  path: Assets/ElementalsEnemies/EarthElemental/Artsource/Materials/EarthElemental_Accessories_C.tga
-  artifactKey: Guid(9e1d1309cb1c9954784b7410d59e92f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/EarthElemental/Artsource/Materials/EarthElemental_Accessories_C.tga using Guid(9e1d1309cb1c9954784b7410d59e92f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbc7b03803bf598041f1b87ed1a0a62e') in 1.366096 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000094 seconds.
-  path: Assets/ElementalsEnemies/EarthElemental/Artsource/Materials/EarthElemental_Body_S.tga
-  artifactKey: Guid(e1e8ad6359a5676419db58987dd864c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/EarthElemental/Artsource/Materials/EarthElemental_Body_S.tga using Guid(e1e8ad6359a5676419db58987dd864c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd18e83246f5a16f3637ed98fb793a853') in 0.003052 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000076 seconds.
-  path: Assets/ElementalsEnemies/EarthElemental/Artsource/Materials/EarthElemental_Body_C.tga
-  artifactKey: Guid(c3ce52326c081a04a89dcdf5a30b1c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/EarthElemental/Artsource/Materials/EarthElemental_Body_C.tga using Guid(c3ce52326c081a04a89dcdf5a30b1c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fec3636983abd1a8ae5c5736887c637') in 0.002687 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000054 seconds.
-  path: Assets/ElementalsEnemies/EarthElemental/Artsource/Materials/EarthElemental_Body.mat
-  artifactKey: Guid(ebb46a84b242d7748a825519883f9e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/EarthElemental/Artsource/Materials/EarthElemental_Body.mat using Guid(ebb46a84b242d7748a825519883f9e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99b43af0d6f759d7dd6857fcc88647f1') in 0.002883 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000071 seconds.
-  path: Assets/ElementalsEnemies/EarthElemental/Artsource/Materials/EarthElemental_Accessories_Specular.tga
-  artifactKey: Guid(b95111f2e298857489f576fc62951045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/EarthElemental/Artsource/Materials/EarthElemental_Accessories_Specular.tga using Guid(b95111f2e298857489f576fc62951045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98dec50428a707742d0406bc88fbce85') in 0.004123 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000125 seconds.
-  path: Assets/ElementalsEnemies/EarthElemental/Artsource/Materials/EarthElemental_Eyes.mat
-  artifactKey: Guid(8176148a4435b6c4e9d9cba9ecb46f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/EarthElemental/Artsource/Materials/EarthElemental_Eyes.mat using Guid(8176148a4435b6c4e9d9cba9ecb46f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16997eafbcdd985370a4d23412974a72') in 0.002278 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 68.664020 seconds.
-  path: Assets/ElementalsEnemies/Elemental_AC.controller
-  artifactKey: Guid(73e489b908f5d9349b4b0999d7c2d551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ElementalsEnemies/Elemental_AC.controller using Guid(73e489b908f5d9349b4b0999d7c2d551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '186e562800d59895bb69b294531331a6') in 0.150832 seconds 
+  Time since last request: 284.459967 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Scenes/MainScene.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Scenes/MainScene.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71f9aafa1c54711c52a70c77ed27e6f7') in 0.142573 seconds 
