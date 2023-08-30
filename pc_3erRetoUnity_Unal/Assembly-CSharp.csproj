@@ -61,9 +61,12 @@
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Enemies/4Elements/Scripts/AirElemental.cs" />
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Enemies/4Elements/Scripts/ScrollUv.cs" />
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Enemies/4Elements/Scripts/Preview.cs" />
+    <Compile Include="Assets/pc_3erRetoUnity_Unal/Environment/Turntable_platforms/GodRays/Scripts/ScrollBehaviour.cs" />
+    <Compile Include="Assets/PolarizedPlatformPack/Demo/Scripts/ViewDrag.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/pc_3erRetoUnity_Unal/Environment/Rocks/readme.txt" />
+    <None Include="Assets/pc_3erRetoUnity_Unal/Environment/Turntable_platforms/Materials/Cutout_2Sided.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -794,6 +797,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{0C29ACC5-D18A-F966-1CB6-1B7660F0D810}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
