@@ -2358,3 +2358,9 @@ Received Import Request.
   path: Assets/Scanta/Zeamays Fighter/Models/RightStrafe (1).fbx
   artifactKey: Guid(f71a77f9e795d411ea3efcd1456d4968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scanta/Zeamays Fighter/Models/RightStrafe (1).fbx using Guid(f71a77f9e795d411ea3efcd1456d4968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f18e5994a5ff1f97762a30b9266979') in 0.010861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5899.030705 seconds.
+  path: Assets/Scanta/Zeamays Fighter/Models/Attack01.fbx
+  artifactKey: Guid(0182ba30a17d9404eb5aaeea0dafefd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scanta/Zeamays Fighter/Models/Attack01.fbx using Guid(0182ba30a17d9404eb5aaeea0dafefd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c28144906b4555705f6b6bd141c9e09') in 0.141405 seconds 
