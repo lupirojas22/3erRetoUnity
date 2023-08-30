@@ -1,0 +1,632 @@
+Unity Editor version:    2021.3.28f1 (232e59c3f087)
+Branch:                  2021.3/release
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 13.4.1 (c) (Build 22F770820d)
+Darwin version:          22.5.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2021.3.28f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49429
+Successfully changed project path to: /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal
+/Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [140704719349312] Host "[IP] 192.168.0.7 [Port] 0 [Flags] 2 [Guid] 2722598977 [EditorId] 2722598977 [Version] 1048832 [Id] OSXEditor(0,MacBook-Pro-de-Bryan.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [140704719349312] Host "[IP] 192.168.0.7 [Port] 0 [Flags] 2 [Guid] 2722598977 [EditorId] 2722598977 [Version] 1048832 [Id] OSXEditor(0,MacBook-Pro-de-Bryan.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 634.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.28f1 (232e59c3f087)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.3.28f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+Metal devices available: 1
+0: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+Using device Intel(R) Iris(TM) Plus Graphics 645 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 645
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.3.28f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.3.28f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.3.28f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56286
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.28f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.28f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.28f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.28f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.017727 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 424 ms
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 388.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.601 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3603ms)
+		BeginReloadAssembly (452ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (4ms)
+		EndReloadAssembly (2725ms)
+			LoadAssemblies (453ms)
+			RebuildTransferFunctionScriptingTraits (6ms)
+			SetupTypeCache (526ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (120ms)
+			SetupLoadedEditorAssemblies (1875ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (1009ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (389ms)
+				BeforeProcessingInitializeOnLoad (6ms)
+				ProcessInitializeOnLoadAttributes (315ms)
+				ProcessInitializeOnLoadMethodAttributes (155ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.023422 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 399.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.300 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5303ms)
+		BeginReloadAssembly (519ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (20ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (101ms)
+		EndReloadAssembly (4272ms)
+			LoadAssemblies (452ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1211ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (260ms)
+			SetupLoadedEditorAssemblies (2095ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (64ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (399ms)
+				BeforeProcessingInitializeOnLoad (333ms)
+				ProcessInitializeOnLoadAttributes (968ms)
+				ProcessInitializeOnLoadMethodAttributes (322ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (2ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2021.3.28f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.40 seconds
+Refreshing native plugins compatible for Editor in 2.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4880 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 42 unused Assets / (296.3 KB). Loaded Objects now: 5368.
+Memory consumption went from 208.2 MB to 208.0 MB.
+Total: 19.372032 ms (FindLiveObjects: 2.621352 ms CreateObjectMapping: 1.035733 ms MarkObjects: 13.561284 ms  DeleteObjects: 2.147976 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 844.209745 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Particle/Perfab/Flames.prefab
+  artifactKey: Guid(23b0bcc2b392efd44bd0eef1dfc415a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Particle/Perfab/Flames.prefab using Guid(23b0bcc2b392efd44bd0eef1dfc415a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa54492948ce2079fcc223812e4e101a') in 0.577249 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer2.prefab
+  artifactKey: Guid(f6ba80c974015164192143bb11283c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer2.prefab using Guid(f6ba80c974015164192143bb11283c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b007d5d8afee8e8a865a1502b81bf4') in 0.020830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer4 1.prefab
+  artifactKey: Guid(b80288b4b9358b3418fa1b961406560e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer4 1.prefab using Guid(b80288b4b9358b3418fa1b961406560e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c392288f9928943d3bcd62cdf5346f4') in 0.018030 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer5.prefab
+  artifactKey: Guid(ab418cd7334cec84d87ba96f6c5b1ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer5.prefab using Guid(ab418cd7334cec84d87ba96f6c5b1ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb3efd5c123b0bf7843c3abe75f04f2a') in 0.007835 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer10.prefab
+  artifactKey: Guid(137716c97dadd7f41a93aecf9f101098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer10.prefab using Guid(137716c97dadd7f41a93aecf9f101098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79258cffe49adf4cf6e96721b840abc7') in 0.010489 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer1.prefab
+  artifactKey: Guid(138c0777478e5954e95d0618ad64d2ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer1.prefab using Guid(138c0777478e5954e95d0618ad64d2ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c2016bd3f428d2e3ce17373fe9cbe90') in 0.014237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer6.prefab
+  artifactKey: Guid(44512f038bb5e564395bb4a79fa9f54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer6.prefab using Guid(44512f038bb5e564395bb4a79fa9f54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6db4a5ba5073dab33ae94ad772b001c9') in 0.016608 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/eer11.prefab
+  artifactKey: Guid(224aaa53c4a850348a1083000f6686ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/eer11.prefab using Guid(224aaa53c4a850348a1083000f6686ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b72ca5d4e6b2787d7a782199fa6a81b') in 0.009828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer2 1.prefab
+  artifactKey: Guid(cfa0551343d42504291b4cfb44ee8bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer2 1.prefab using Guid(cfa0551343d42504291b4cfb44ee8bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9748342acd546b6c528b24360acdcabc') in 0.009815 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Particle/Perfab/Flames2 .prefab
+  artifactKey: Guid(e251dc28f26d85749ad5f7e5fbfde962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Particle/Perfab/Flames2 .prefab using Guid(e251dc28f26d85749ad5f7e5fbfde962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34b022361bc384dc603473ac80bed434') in 0.010490 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer1 1.prefab
+  artifactKey: Guid(f1fd456df4e5ada4ba3c8765824aaf3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer1 1.prefab using Guid(f1fd456df4e5ada4ba3c8765824aaf3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0975191ac7fb3ec70bf624239fde4125') in 0.007804 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Particle/Perfab/Flames 1.prefab
+  artifactKey: Guid(1d0e4f1499cebaa4992504fcb17e8871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Particle/Perfab/Flames 1.prefab using Guid(1d0e4f1499cebaa4992504fcb17e8871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c76591700b8a0a59b7767eaf061b2f3a') in 0.012843 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/eer9.prefab
+  artifactKey: Guid(5317d7305db54e6458eed3a16886d7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/eer9.prefab using Guid(5317d7305db54e6458eed3a16886d7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41e8b68d6944a5729ee116c9a26e914c') in 0.019319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/eer8.prefab
+  artifactKey: Guid(19c42e780c9554544b85d9dc79515564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/eer8.prefab using Guid(19c42e780c9554544b85d9dc79515564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72504503eafd73567fcaf0dbaa60b12c') in 0.010948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer3.1 1.prefab
+  artifactKey: Guid(eea550f3de62b44498004d363009b4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer3.1 1.prefab using Guid(eea550f3de62b44498004d363009b4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '019c82a1f6054260b5ee61aefea093f3') in 0.010958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer3.prefab
+  artifactKey: Guid(506980000a76666449f38c5e27dca762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer3.prefab using Guid(506980000a76666449f38c5e27dca762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67de20a63f891ff92fca2e193661b30b') in 0.009212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/eer7.prefab
+  artifactKey: Guid(75ccb0388df1dd14a864b3130ba2ba57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/eer7.prefab using Guid(75ccb0388df1dd14a864b3130ba2ba57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119b6e16b694e4dcc6f03161c8c9ad57') in 0.010543 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer3.1.prefab
+  artifactKey: Guid(69ec518131952874bac3adf8d4ca20ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer3.1.prefab using Guid(69ec518131952874bac3adf8d4ca20ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e585603ccd14313b25a58796125f3f7f') in 0.010928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer4.prefab
+  artifactKey: Guid(cf9200d8ceba70e4dabf6456b32c3387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer4.prefab using Guid(cf9200d8ceba70e4dabf6456b32c3387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '517303ef6d762843665ff8528bce9092') in 0.007348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer12.prefab
+  artifactKey: Guid(e2dc1e146935d024f92b9039844c7a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Eer12.prefab using Guid(e2dc1e146935d024f92b9039844c7a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8a43798f211a03901db3029c8f4ce82') in 0.013480 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001874 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Particle/Perfab/Dust.prefab
+  artifactKey: Guid(adf0738bacbec9143bac3c19518ab89a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Particle/Perfab/Dust.prefab using Guid(adf0738bacbec9143bac3c19518ab89a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a002ed623d5bb5ea88f507e9c1ff888d') in 0.010628 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 63.884567 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/grass 1.prefab
+  artifactKey: Guid(7b9e5e3477316034285e40aeafd428a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/grass 1.prefab using Guid(7b9e5e3477316034285e40aeafd428a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc7b47c7b54de3d445b58b80eb62067') in 0.009607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/tree16.prefab
+  artifactKey: Guid(dbaf8c3e5014ae44b9b885afadce6214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/tree16.prefab using Guid(dbaf8c3e5014ae44b9b885afadce6214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9eff398209f6996183245009cde17e6') in 0.022712 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Wood.prefab
+  artifactKey: Guid(ab5cfcdb818ae4a43a8ff18f1fedb803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Wood.prefab using Guid(ab5cfcdb818ae4a43a8ff18f1fedb803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01b717b3b7b8a63f81369fa7e1b8d772') in 0.006789 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Grass.prefab
+  artifactKey: Guid(be30aee2998632c418ddebe1ce786af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Grass.prefab using Guid(be30aee2998632c418ddebe1ce786af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a3c231749ddedb3524a00946dfb6dc') in 0.008814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Palm.prefab
+  artifactKey: Guid(341b4b7533739484a9a336d86b382d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Palm.prefab using Guid(341b4b7533739484a9a336d86b382d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bc04daa1fa52ee490b406398a0aaf31') in 0.018531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/tre19.prefab
+  artifactKey: Guid(a825c367baabe6641a1a67c4ffb9ea50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/tre19.prefab using Guid(a825c367baabe6641a1a67c4ffb9ea50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5be9ea818b3df0613c4dbdf49eb80af') in 0.022946 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Group49.prefab
+  artifactKey: Guid(4c7d79c1c45c8794093bcaec44e633c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/Group49.prefab using Guid(4c7d79c1c45c8794093bcaec44e633c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3b54e9772188eaf64e788448e07a2c') in 0.008465 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/grass2.prefab
+  artifactKey: Guid(f399eaefd092a39448a107d65aaa38c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Tre/grass2.prefab using Guid(f399eaefd092a39448a107d65aaa38c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f8b3eed8141707160ece108950057b1') in 0.006061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.599927 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(911f606e38f7f42a0b3a05c6ee8a55f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(911f606e38f7f42a0b3a05c6ee8a55f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dd539b9e0b8e247b76bb8946e9e8b50') in 0.448786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 38.190446 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Terain/Grass.prefab
+  artifactKey: Guid(72229693aaee3b24fbadcec09fa83b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Terain/Grass.prefab using Guid(72229693aaee3b24fbadcec09fa83b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32712614cb00c80958c0d584aaaab579') in 0.009914 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Terain/grass2.prefab
+  artifactKey: Guid(bf67beae2d4953447953edcca56c08c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Terain/grass2.prefab using Guid(bf67beae2d4953447953edcca56c08c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9838c34a01a5292e647fa5aa15f4afc') in 0.007934 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.412487 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Terain/Island.prefab
+  artifactKey: Guid(b1195d70df4a8174c8aa1ae02d07c16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Terain/Island.prefab using Guid(b1195d70df4a8174c8aa1ae02d07c16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1ac8f3ee320a8df51c1ff8a54cb17e') in 0.015191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Terain/Island 2.prefab
+  artifactKey: Guid(5646abc556d558249902f0a6b84a55c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Terain/Island 2.prefab using Guid(5646abc556d558249902f0a6b84a55c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2582e5810c7fe23dcd41a3f0e5ba58c0') in 0.009946 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 71.089073 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_01.prefab
+  artifactKey: Guid(c6e26f473e3198348b7444143bdfcdba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_01.prefab using Guid(c6e26f473e3198348b7444143bdfcdba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd389279630c74ab60ca7ea6ba8c52f26') in 0.013800 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000854 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_13.prefab
+  artifactKey: Guid(a3d85f88e3c620a479ed68264bc700e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_13.prefab using Guid(a3d85f88e3c620a479ed68264bc700e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15929de772d00eaf9e7076f7a179f681') in 0.008242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_19.prefab
+  artifactKey: Guid(7dc2b1f19ad5c22418d6eb516e771ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_19.prefab using Guid(7dc2b1f19ad5c22418d6eb516e771ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289bf48c8e7228d82458c434f371d45a') in 0.007806 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_05.prefab
+  artifactKey: Guid(13a02b597f7e928439af5a643923615b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_05.prefab using Guid(13a02b597f7e928439af5a643923615b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bfca9a2bd2c645ee4610011635350ca') in 0.006510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_07.prefab
+  artifactKey: Guid(17fc4cd0e02606945bb089e9742a0b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_07.prefab using Guid(17fc4cd0e02606945bb089e9742a0b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b636728177a83e448582d7e112f9c9') in 0.007876 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_11.prefab
+  artifactKey: Guid(fcbb6326cfa7ded42983d2aec34d30ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_11.prefab using Guid(fcbb6326cfa7ded42983d2aec34d30ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c1ebf7d0f8f04a649dec956a83133f3') in 0.013866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_04.prefab
+  artifactKey: Guid(ebfd8f8b61606a14083fb008eb40c93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_04.prefab using Guid(ebfd8f8b61606a14083fb008eb40c93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '063a846eea5e4bcf69fc05490195e264') in 0.019808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_27.prefab
+  artifactKey: Guid(afef2318e5e9b5c438b4fe2daf817d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_27.prefab using Guid(afef2318e5e9b5c438b4fe2daf817d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fb484502c088d1a148821d6a53b7d80') in 0.005945 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_17.prefab
+  artifactKey: Guid(d644590ea7b73c643a7adff38c76be77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_17.prefab using Guid(d644590ea7b73c643a7adff38c76be77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '606b7c2d9d7369240982127e3caff128') in 0.004836 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_12.prefab
+  artifactKey: Guid(0af13199ff248f247a980f64e382c9bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_12.prefab using Guid(0af13199ff248f247a980f64e382c9bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c8a9c470242f07ab9cc41217e3f3aa2') in 0.004895 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_21.prefab
+  artifactKey: Guid(d9e4998cd9f26734e9755c5926c8ee63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_21.prefab using Guid(d9e4998cd9f26734e9755c5926c8ee63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1e2b19c7820a2d2824bdf65db58ac38') in 0.005924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_23.prefab
+  artifactKey: Guid(91edabcd5d4579541afee0652619b5ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_23.prefab using Guid(91edabcd5d4579541afee0652619b5ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93388c8c565ecd18153af6a5166a4b5d') in 0.006251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_10.prefab
+  artifactKey: Guid(be922402f1c79be45b99ac4a8235b991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_10.prefab using Guid(be922402f1c79be45b99ac4a8235b991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0580c6d3441d2e6f1d9016fdce508b8') in 0.004875 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_14.prefab
+  artifactKey: Guid(bcd93aa799657b142b8c1e9bafa30130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_14.prefab using Guid(bcd93aa799657b142b8c1e9bafa30130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b5b9ff2c2cc88738357bfe306c68ede') in 0.005634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_09.prefab
+  artifactKey: Guid(d5d3412c579fa2842bce8a0b4c405bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_09.prefab using Guid(d5d3412c579fa2842bce8a0b4c405bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1495e9ec41a42640232bb406ae867722') in 0.005398 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_20.prefab
+  artifactKey: Guid(f44d40127c1722f4e8b02b6e23daa854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_20.prefab using Guid(f44d40127c1722f4e8b02b6e23daa854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9412d6fd98152b1995ed03645e415fa9') in 0.005676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_24.prefab
+  artifactKey: Guid(eb78b2299a27a13458de8c0b1957d9f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_24.prefab using Guid(eb78b2299a27a13458de8c0b1957d9f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad7af337ac9db431a3075b4123faa67d') in 0.008151 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_06.prefab
+  artifactKey: Guid(6c98943d0186c064980c06a7035d1a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_06.prefab using Guid(6c98943d0186c064980c06a7035d1a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '915ffd159656e3cbae0ab64a4e1a5fdd') in 0.007597 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_25.prefab
+  artifactKey: Guid(42d6835d259976342b6cee06ccc072ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_25.prefab using Guid(42d6835d259976342b6cee06ccc072ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '468a9cf373772e189d3cf700fba35d55') in 0.005036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_26.prefab
+  artifactKey: Guid(5fabefdf9a0dec9418cd807863d7e191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_26.prefab using Guid(5fabefdf9a0dec9418cd807863d7e191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6947463c32124e8ced88543b26e5cea7') in 0.005568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Terain/Snow.prefab
+  artifactKey: Guid(58a28c43aece91c4f8d4e8e4e2c7d44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Terain/Snow.prefab using Guid(58a28c43aece91c4f8d4e8e4e2c7d44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d251fa69f8497d0264f33fc680d5b4') in 0.010851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_22.prefab
+  artifactKey: Guid(6049ce61a0801a24aa149aa5a2b4284d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_22.prefab using Guid(6049ce61a0801a24aa149aa5a2b4284d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf63d309836246de3c278f14eb78a18f') in 0.005666 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_08.prefab
+  artifactKey: Guid(3bb6b192d6030bf46a3c7e1d3f9d5da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_08.prefab using Guid(3bb6b192d6030bf46a3c7e1d3f9d5da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8c92edfdf441ec828fe050b8a836f9d') in 0.010274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001292 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_18.prefab
+  artifactKey: Guid(9229960ef96277844a9309ba5ad0e22f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_18.prefab using Guid(9229960ef96277844a9309ba5ad0e22f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '757d18dcfe5176179eb09ac9f1ee6bf6') in 0.008269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Rock/RockOne.prefab
+  artifactKey: Guid(9d549cd7872e12f42b7b6ee15c43fc7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Rock/RockOne.prefab using Guid(9d549cd7872e12f42b7b6ee15c43fc7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c73866eae426b51a72b2cb75d8b028') in 0.009982 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Rock/Stone.prefab
+  artifactKey: Guid(093b91cb02a0557469861b1daf4e2745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Rock/Stone.prefab using Guid(093b91cb02a0557469861b1daf4e2745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c61422a00d4ad1afcf0867f2922fc56') in 0.013521 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_16.prefab
+  artifactKey: Guid(e6bb2325b0c4d0448a6152ee3b7276f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_16.prefab using Guid(e6bb2325b0c4d0448a6152ee3b7276f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '479a0f30e8280e9b21a1387a90a7934a') in 0.009555 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_28.prefab
+  artifactKey: Guid(cb49912c7122be749adf0aff48902bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_28.prefab using Guid(cb49912c7122be749adf0aff48902bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b99c287e8710e081073a0f5be3bed2a') in 0.007639 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Rock/Rocktwo.prefab
+  artifactKey: Guid(114b721f56e233244a40b2dc5e0d0057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Rock/Rocktwo.prefab using Guid(114b721f56e233244a40b2dc5e0d0057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e87c540e482cddca967551ae41a571b3') in 0.045565 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Particle/Flaer/Untitled3.fbx
+  artifactKey: Guid(d69afc0e00807c54ead7f69429ca37ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Particle/Flaer/Untitled3.fbx using Guid(d69afc0e00807c54ead7f69429ca37ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f02643ad8d7def23b133a3eba9eb28e') in 0.580954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Particle/Flaer/Untitled.fbx
+  artifactKey: Guid(b7a23aef7ea122d498f42bf9a04098bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Particle/Flaer/Untitled.fbx using Guid(b7a23aef7ea122d498f42bf9a04098bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '414e0e72a97677a471bdcc45a8f9e69c') in 0.012891 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_03.prefab
+  artifactKey: Guid(8de1cfd7d0ba8f641ad9238c2e98eb7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_03.prefab using Guid(8de1cfd7d0ba8f641ad9238c2e98eb7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b503806fb8d07f55efc34713ec8f61bf') in 0.006008 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000959 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Sky/Sky.prefab
+  artifactKey: Guid(8e49073458b157e4c88c829c5a2ea603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Sky/Sky.prefab using Guid(8e49073458b157e4c88c829c5a2ea603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '462a68e879678d071f71e98699e1e36d') in 0.009987 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Particle/Flaer/Untitled2.fbx
+  artifactKey: Guid(b09a128a42d73884e815da0134493483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Particle/Flaer/Untitled2.fbx using Guid(b09a128a42d73884e815da0134493483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c509343c5b3d595930dcbd5a5c375d') in 0.008645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001779 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_15.prefab
+  artifactKey: Guid(df4bf42e9d15a814c80f21fc920ed1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_15.prefab using Guid(df4bf42e9d15a814c80f21fc920ed1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54cbba42b32c5a9f67e009654c47dda4') in 0.006404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_02.prefab
+  artifactKey: Guid(0820d91e24de1f748933f5c78b292ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Prefabs/rock_02.prefab using Guid(0820d91e24de1f748933f5c78b292ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d84e3fedb2a54b60f3b545fb11f84d') in 0.012214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000570 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Sky/sky2.prefab
+  artifactKey: Guid(399498092da5fc242aa8658779bd6c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Sky/sky2.prefab using Guid(399498092da5fc242aa8658779bd6c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23f29e3721895bfff865e98c0cf52c68') in 0.011756 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.561609 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Terain/terain.prefab
+  artifactKey: Guid(7b80874909f9a3645bdd024faac3a7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/Terain/terain.prefab using Guid(7b80874909f9a3645bdd024faac3a7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db05c8a760d98d7d15f7923ea98c0d4a') in 0.009887 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 25.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 23 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (403.7 KB). Loaded Objects now: 5370.
+Memory consumption went from 115.9 MB to 115.5 MB.
+Total: 82.724013 ms (FindLiveObjects: 2.084304 ms CreateObjectMapping: 0.913286 ms MarkObjects: 78.709128 ms  DeleteObjects: 1.012868 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:CustomObjectIndexerAttribute: 6b0e35c9178b02a6363f3721b7b8e397 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
