@@ -60,6 +60,10 @@
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Enemies/4Elements/Scripts/AirElemental.cs" />
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Enemies/4Elements/Scripts/ScrollUv.cs" />
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Enemies/4Elements/Scripts/Preview.cs" />
+    <Compile Include="Assets/Rocks/Scripts/CameraFreeflight.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets/Rocks/readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -755,8 +759,14 @@
     <Reference Include="Unity.ShaderGraph.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Burst">
       <HintPath>Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
