@@ -56,10 +56,11 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/MonoBundle/Addins/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs" />
-    <Compile Include="Assets/Standard Assets/Effects/ImageEffects/Scripts/ContrastEnhance.cs" />
-    <Compile Include="Assets/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs" />
     <Compile Include="Assets/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs" />
+    <Compile Include="Assets/Standard Assets/Effects/ImageEffects/Scripts/ContrastEnhance.cs" />
+    <Compile Include="Assets/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs" />
+    <Compile Include="Assets/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs" />
+    <Compile Include="Assets/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs" />
     <Compile Include="Assets/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs" />
   </ItemGroup>
   <ItemGroup>
