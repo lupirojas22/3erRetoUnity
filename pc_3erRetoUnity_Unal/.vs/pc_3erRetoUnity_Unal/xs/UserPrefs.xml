@@ -1,17 +1,24 @@
 ﻿<Properties StartupConfiguration="{BEAE226F-611D-FE8C-79B1-2E27B3FC3FDC}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4724e026-1237-4b9c-a9ab-774955e08498" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/platformMoviment.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.render-pipelines.universal@12.1.12/Shaders/Lit.shader">
     <Files>
-      <File FileName="Library/PackageCache/com.unity.render-pipelines.universal@12.1.12/Shaders/Lit.shader" />
-      <File FileName="Assets/platformMoviment.cs" Line="12" Column="6" />
+      <File FileName="Library/PackageCache/com.unity.render-pipelines.universal@12.1.12/Shaders/Lit.shader" Line="1" Column="1" />
+      <File FileName="Assets/VerticalPlatformMovement.cs" />
+      <File FileName="Assets/@PaulosCreations/FloatingPots/Scripts/FloatingController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="pc_3erRetoUnity_Unal">
             <Node name="Assets" expanded="True">
+              <Node name="@PaulosCreations" expanded="True">
+                <Node name="FloatingPots" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="FloatingController.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
               <Node name="pc_3erRetoUnity_Unal" expanded="True" />
-              <Node name="platformMoviment.cs" selected="True" />
             </Node>
           </Node>
         </State>
