@@ -56,10 +56,22 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/MonoBundle/Addins/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/PolarizedPlatformPack/Demo/Scripts/ViewDrag.cs" />
+    <Compile Include="Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Scripts/CameraFreeflight.cs" />
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Enemies/4Elements/Scripts/WaterElemental.cs" />
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Enemies/4Elements/Scripts/AirElemental.cs" />
+    <Compile Include="Assets/pc_3erRetoUnity_Unal/Environment/Turntable_platforms/GodRays/Scripts/ScrollBehaviour.cs" />
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Enemies/4Elements/Scripts/ScrollUv.cs" />
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Enemies/4Elements/Scripts/Preview.cs" />
+    <Compile Include="Assets/VerticalPlatformMovement.cs" />
+    <Compile Include="Assets/@PaulosCreations/FloatingPots/Demo/DemoController.cs" />
+    <Compile Include="Assets/@PaulosCreations/FloatingPots/Scripts/FloatingController.cs" />
+    <Compile Include="Assets/@PaulosCreations/FloatingPots/Scripts/LanternController.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets/pc_3erRetoUnity_Unal/Environment/Rocks/readme.txt" />
+    <None Include="Assets/@PaulosCreations/FloatingPots/ReadMe.txt" />
+    <None Include="Assets/pc_3erRetoUnity_Unal/Environment/Turntable_platforms/Materials/Cutout_2Sided.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -755,8 +767,14 @@
     <Reference Include="Unity.ShaderGraph.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Burst">
       <HintPath>Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
