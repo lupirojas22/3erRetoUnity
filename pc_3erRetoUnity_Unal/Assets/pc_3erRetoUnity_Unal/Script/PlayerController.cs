@@ -25,11 +25,12 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        // Calculamos el vector de movimiento en función de las entradas.
-        Vector3 movement = new Vector3(x * moveSpeed * Time.deltaTime, 0, y * moveSpeed * Time.deltaTime);
+        // Convertimos las entradas locales en entradas globales
+        Vector3 localMovement = new Vector3(x, 0, y);
+        Vector3 globalMovement = transform.TransformDirection(localMovement) * moveSpeed * Time.deltaTime;
 
         // Aplicamos el movimiento al Rigidbody para que se mueva en el eje X y Z.
-        rigidBody.MovePosition(transform.position + movement);
+        rigidBody.MovePosition(transform.position + globalMovement);
 
         // Rotamos el objeto.
         transform.Rotate(0, x * Time.deltaTime * speedRotate, 0);
