@@ -2,13 +2,14 @@
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="16e3522c-19be-4016-bd7a-06d85ce65aab" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/pc_3erRetoUnity_Unal/Script/MovementPlatform.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/pc_3erRetoUnity_Unal/Environment/Turntable_platforms/Materials/Cutout_2Sided.shader">
     <Files>
       <File FileName="Library/PackageCache/com.unity.render-pipelines.universal@12.1.12/Shaders/Lit.shader" />
       <File FileName="Assets/VerticalPlatformMovement.cs" />
       <File FileName="Assets/@PaulosCreations/FloatingPots/Scripts/FloatingController.cs" />
       <File FileName="Assets/pc_3erRetoUnity_Unal/Script/GroundDetection.cs" />
-      <File FileName="Assets/pc_3erRetoUnity_Unal/Script/MovementPlatform.cs" Line="1" Column="1" />
+      <File FileName="Assets/pc_3erRetoUnity_Unal/Script/MovementPlatform.cs" />
+      <File FileName="Assets/pc_3erRetoUnity_Unal/Environment/Turntable_platforms/Materials/Cutout_2Sided.shader" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,9 +22,14 @@
                 </Node>
               </Node>
               <Node name="pc_3erRetoUnity_Unal" expanded="True">
-                <Node name="Script" expanded="True">
-                  <Node name="MovementPlatform.cs" selected="True" />
+                <Node name="Environment" expanded="True">
+                  <Node name="Turntable_platforms" expanded="True">
+                    <Node name="Materials" expanded="True">
+                      <Node name="Cutout_2Sided.shader" selected="True" />
+                    </Node>
+                  </Node>
                 </Node>
+                <Node name="Script" expanded="True" />
               </Node>
             </Node>
           </Node>

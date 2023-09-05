@@ -70,6 +70,8 @@
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Environment/Turntable_platforms/GodRays/Scripts/ScrollBehaviour.cs" />
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Enemies/4Elements/Scripts/ScrollUv.cs" />
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Enemies/4Elements/Scripts/Preview.cs" />
+    <Compile Include="Assets/IgniteCoders/Simple Water Shader/Info/Scripts/Readme.cs" />
+    <Compile Include="Assets/IgniteCoders/Simple Water Shader/Resources/WaterReflection.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/pc_3erRetoUnity_Unal/Environment/Rocks/readme.txt" />
