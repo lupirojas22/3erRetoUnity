@@ -863,3 +863,327 @@ Received Import Request.
   path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/tree/Unarmed Run Back.fbx
   artifactKey: Guid(dc6ad231cf62d45b2aec1a4f185e457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/tree/Unarmed Run Back.fbx using Guid(dc6ad231cf62d45b2aec1a4f185e457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee5b5ed1b1b8da04cce29c4fc6c559c7') in 0.007955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 162.062164 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/tree/rigthSide.fbx
+  artifactKey: Guid(c23b751e712654e828f6ff8c76e4f305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/tree/rigthSide.fbx using Guid(c23b751e712654e828f6ff8c76e4f305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f1d38cfe437f8c1e99aea1c012cb843') in 0.070251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.178290 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/tree/PlayerRight.fbx
+  artifactKey: Guid(c23b751e712654e828f6ff8c76e4f305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/tree/PlayerRight.fbx using Guid(c23b751e712654e828f6ff8c76e4f305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '691bb97d8462b4411ddca8baa388e09a') in 0.009271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.947768 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/tree/PlayerLeft.fbx
+  artifactKey: Guid(3ffaaaa492c994d538589654f416cbad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/tree/PlayerLeft.fbx using Guid(3ffaaaa492c994d538589654f416cbad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c11aeeb704522895577005263ed2f20e') in 0.012627 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.756509 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/tree/PlayerLeft.fbx
+  artifactKey: Guid(3ffaaaa492c994d538589654f416cbad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/tree/PlayerLeft.fbx using Guid(3ffaaaa492c994d538589654f416cbad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd291509db7278022a79c395baa53ebf6') in 0.014312 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.759302 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/tree/PlayerRight.fbx
+  artifactKey: Guid(c23b751e712654e828f6ff8c76e4f305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/tree/PlayerRight.fbx using Guid(c23b751e712654e828f6ff8c76e4f305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4696c4de4dd8711488747f877b0bbacf') in 0.008585 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.679606 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/tree/Jump.fbx
+  artifactKey: Guid(9eeca2b1634df4241a4310b5b95351e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/tree/Jump.fbx using Guid(9eeca2b1634df4241a4310b5b95351e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4276cee77500b1fcb167c3303415b88c') in 0.011371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.674859 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/tree/Jump.fbx
+  artifactKey: Guid(9eeca2b1634df4241a4310b5b95351e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/PlayerCorn/Zeamays Fighter/Models/tree/Jump.fbx using Guid(9eeca2b1634df4241a4310b5b95351e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71620d2beb2d460bdcd2953487e75d4a') in 0.006458 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008746 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 7.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.867 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3876ms)
+		BeginReloadAssembly (1114ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (87ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (3ms)
+			CreateAndSetChildDomain (527ms)
+		EndReloadAssembly (2495ms)
+			LoadAssemblies (417ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1052ms)
+			ReleaseScriptCaches (12ms)
+			RebuildScriptCaches (148ms)
+			SetupLoadedEditorAssemblies (768ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (47ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (8ms)
+				BeforeProcessingInitializeOnLoad (124ms)
+				ProcessInitializeOnLoadAttributes (424ms)
+				ProcessInitializeOnLoadMethodAttributes (160ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (32ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4762 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (405.3 KB). Loaded Objects now: 5509.
+Memory consumption went from 224.4 MB to 224.0 MB.
+Total: 7.895971 ms (FindLiveObjects: 0.616266 ms CreateObjectMapping: 0.748032 ms MarkObjects: 5.976829 ms  DeleteObjects: 0.551716 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:CustomObjectIndexerAttribute: 6b0e35c9178b02a6363f3721b7b8e397 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005142 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/bryanmarin/Documents/GitHub/3erRetoUnity/pc_3erRetoUnity_Unal/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.468 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2470ms)
+		BeginReloadAssembly (286ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (121ms)
+		EndReloadAssembly (1998ms)
+			LoadAssemblies (163ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (671ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (105ms)
+			SetupLoadedEditorAssemblies (809ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (48ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (142ms)
+				ProcessInitializeOnLoadAttributes (439ms)
+				ProcessInitializeOnLoadMethodAttributes (173ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (29ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4762 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (405.1 KB). Loaded Objects now: 5524.
+Memory consumption went from 224.4 MB to 224.0 MB.
+Total: 7.777629 ms (FindLiveObjects: 0.684986 ms CreateObjectMapping: 0.619805 ms MarkObjects: 6.170336 ms  DeleteObjects: 0.300872 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:CustomObjectIndexerAttribute: 6b0e35c9178b02a6363f3721b7b8e397 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1128.317980 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Fonts/PerfectDOSVGA437.ttf
+  artifactKey: Guid(74a5091d8707f334b9a5c31ef71a64ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Fonts/PerfectDOSVGA437.ttf using Guid(74a5091d8707f334b9a5c31ef71a64ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da3d36bb2c548e878f6ccb1da92f523e') in 4.301611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001657 seconds.
+  path: Assets/@PaulosCreations/FloatingPots/Mesh/Materials/Mat_Earth.mat
+  artifactKey: Guid(c6f8c8795e3a49744ac8655798cba1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/@PaulosCreations/FloatingPots/Mesh/Materials/Mat_Earth.mat using Guid(c6f8c8795e3a49744ac8655798cba1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcf3d675d8c70c156a67a31ba2984ca6') in 0.038219 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/low poly/New Material.mat
+  artifactKey: Guid(754a5ecb8a0b32a4fa6ba94adaa1bb6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/low poly pack/low poly/New Material.mat using Guid(754a5ecb8a0b32a4fa6ba94adaa1bb6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2b7c67f59b2f7307c004ae948234c58') in 0.005922 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/@PaulosCreations/FloatingPots/Mesh/Materials/Mat_Marble.mat
+  artifactKey: Guid(6260e037d20dd5c42b9223fc49e159c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/@PaulosCreations/FloatingPots/Mesh/Materials/Mat_Marble.mat using Guid(6260e037d20dd5c42b9223fc49e159c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f94692c47a331c679251d7835137ed8') in 0.005741 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Turntable_platforms/Materials/platform2.mat
+  artifactKey: Guid(bd9288207da3f9a4b85aead364513f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Turntable_platforms/Materials/platform2.mat using Guid(bd9288207da3f9a4b85aead364513f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db42584d53e38f4dd7def0dc0b6c63ba') in 0.004146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/@PaulosCreations/FloatingPots/Mesh/Materials/Mat_Stone.mat
+  artifactKey: Guid(bd24d561c9600f4418e3758c4ff0b043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/@PaulosCreations/FloatingPots/Mesh/Materials/Mat_Stone.mat using Guid(bd24d561c9600f4418e3758c4ff0b043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24be31d6bbbe0e2809ce78b5555426bd') in 0.003924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.288524 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/Rocks/3dobjects/Materials/rocks-rocks.mat
+  artifactKey: Guid(027e1cf830b5e574e8a027484ece6684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/Rocks/3dobjects/Materials/rocks-rocks.mat using Guid(027e1cf830b5e574e8a027484ece6684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9e5c8bff629009eac68344962dbe54e') in 0.004246 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.652773 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Environment/LowlyPoly/Free Stylized Textures/Materials/Vol_19_4_Dirt.mat
+  artifactKey: Guid(d24bde530a6cd174cb70a68743168031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Environment/LowlyPoly/Free Stylized Textures/Materials/Vol_19_4_Dirt.mat using Guid(d24bde530a6cd174cb70a68743168031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef0970a7353d51dfd67cb446534ad6d') in 0.006622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.533658 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Totems/Elemental Magic Totems/Materials/EarthTotem_Mat.mat
+  artifactKey: Guid(d453755513a1a8541b494dd863c21f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Totems/Elemental Magic Totems/Materials/EarthTotem_Mat.mat using Guid(d453755513a1a8541b494dd863c21f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d7f981663594462ac49fa3f7f3dc274') in 0.003918 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Thin.ttf
+  artifactKey: Guid(19a9abb883540be48b75b951a927ae03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Thin.ttf using Guid(19a9abb883540be48b75b951a927ae03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9026fafacdcacce82b7e9afd0d65be06') in 0.009849 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/PolarizedPlatformPack/Materials/deciduoustree1_Leaves.mat
+  artifactKey: Guid(b31a863fc1ca3bd49a2d484afd7a8865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolarizedPlatformPack/Materials/deciduoustree1_Leaves.mat using Guid(b31a863fc1ca3bd49a2d484afd7a8865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46188a2366f20e44515e99609657c7c4') in 0.004209 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BlackItalic.ttf
+  artifactKey: Guid(f95147a9bab9fe649b8070170fa7ebd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BlackItalic.ttf using Guid(f95147a9bab9fe649b8070170fa7ebd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e9468047c13c7850665b95b67350a68') in 0.009537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/PolarizedPlatformPack/Materials/deciduoustree1_Tribe.mat
+  artifactKey: Guid(c23b27febecf7aa4988e8345fc83ef44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolarizedPlatformPack/Materials/deciduoustree1_Tribe.mat using Guid(c23b27febecf7aa4988e8345fc83ef44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c95ca1f1cc4f2a16d455caef666899') in 0.004630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-MediumItalic.ttf
+  artifactKey: Guid(d93c1bc57fdf1ac4dad1bf04fac05464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-MediumItalic.ttf using Guid(d93c1bc57fdf1ac4dad1bf04fac05464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23689bf3121ee9c5d290699f63b8bca4') in 0.008877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Bold.ttf
+  artifactKey: Guid(3750c318f40cab44a97d3a81beaefeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Bold.ttf using Guid(3750c318f40cab44a97d3a81beaefeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a07c06e052f95dedbc067b125fd93b4') in 0.009662 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/PolarizedPlatformPack/Materials/deciduoustree3_Tribe.mat
+  artifactKey: Guid(4f5667479c1ca0a48823d0b30b3e2ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolarizedPlatformPack/Materials/deciduoustree3_Tribe.mat using Guid(4f5667479c1ca0a48823d0b30b3e2ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45fcdd5f223eab6be658d3b3eda5ed0e') in 0.004649 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Totems/Elemental Magic Totems/Materials/FireTotem_Mat.mat
+  artifactKey: Guid(38617751c2acefe4e8da2d66bd15b0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Totems/Elemental Magic Totems/Materials/FireTotem_Mat.mat using Guid(38617751c2acefe4e8da2d66bd15b0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '446486ef03a555c816c483f942b210f2') in 0.006323 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Italic.ttf
+  artifactKey: Guid(c839255fc8f6b4b4d90bf8c1af9f9bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Italic.ttf using Guid(c839255fc8f6b4b4d90bf8c1af9f9bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f13c0a5c34110453624a3be365e6f78') in 0.008525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Black.ttf
+  artifactKey: Guid(1062c701058745940ae5dca6219c64c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Black.ttf using Guid(1062c701058745940ae5dca6219c64c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7d8f7ce62b21bca7c2cb09a2b5c43d1') in 0.008352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Regular.ttf
+  artifactKey: Guid(30dc370b164eefc43b95744fc796dad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Regular.ttf using Guid(30dc370b164eefc43b95744fc796dad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e178ef1845cdc1cb45e1a6535a808503') in 0.007418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/PolarizedPlatformPack/Materials/deciduoustree2_Leaves.mat
+  artifactKey: Guid(51c832fe8d2014c4989eea133f57eba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolarizedPlatformPack/Materials/deciduoustree2_Leaves.mat using Guid(51c832fe8d2014c4989eea133f57eba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94fc8eb5c34ff9c7623b0a850ce15442') in 0.008247 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/PolarizedPlatformPack/Materials/deciduoustree2_Tribe.mat
+  artifactKey: Guid(e8d23230ceac52e49b9c252b263bc3ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolarizedPlatformPack/Materials/deciduoustree2_Tribe.mat using Guid(e8d23230ceac52e49b9c252b263bc3ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09552eda3d54c9aa95e20c2e28896c7e') in 0.004968 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Medium.ttf
+  artifactKey: Guid(a51a3aebb43ac044989270407476b208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Medium.ttf using Guid(a51a3aebb43ac044989270407476b208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfee0b114ca65aa594df64e3cd73c139') in 0.008265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BoldItalic.ttf
+  artifactKey: Guid(dfb97a9307a577a41bcacba34b9a7e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BoldItalic.ttf using Guid(dfb97a9307a577a41bcacba34b9a7e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c276c96156239b0bced93e874aaf97') in 0.006240 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Light.ttf
+  artifactKey: Guid(2a29e27936eb547458f646f71125b264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Light.ttf using Guid(2a29e27936eb547458f646f71125b264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efe84787a376dc8e1b1891c4302ac0fc') in 0.007141 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-LightItalic.ttf
+  artifactKey: Guid(5e63515167650a541b309ba3bfd4db3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-LightItalic.ttf using Guid(5e63515167650a541b309ba3bfd4db3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5639ec89cf8aaa249cca3c95e5e24638') in 0.006245 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.482266 seconds.
+  path: Assets/pc_3erRetoUnity_Unal/Totems/Elemental Magic Totems/Materials/WaterTotem_Mat.mat
+  artifactKey: Guid(89b8ea9acedf2344c807750cbd6c5ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pc_3erRetoUnity_Unal/Totems/Elemental Magic Totems/Materials/WaterTotem_Mat.mat using Guid(89b8ea9acedf2344c807750cbd6c5ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e292a1d62700ff0d86deba6f372b831') in 0.005478 seconds 
