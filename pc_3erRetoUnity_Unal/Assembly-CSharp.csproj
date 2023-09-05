@@ -60,16 +60,16 @@
     <Compile Include="Assets/@PaulosCreations/FloatingPots/Scripts/FloatingController.cs" />
     <Compile Include="Assets/@PaulosCreations/FloatingPots/Demo/DemoController.cs" />
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Environment/Rocks/Scripts/CameraFreeflight.cs" />
+    <Compile Include="Assets/pc_3erRetoUnity_Unal/Script/GroundDetection.cs" />
     <Compile Include="Assets/@PaulosCreations/FloatingPots/Scripts/LanternController.cs" />
+    <Compile Include="Assets/pc_3erRetoUnity_Unal/Script/PlayerController.cs" />
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Enemies/4Elements/Scripts/WaterElemental.cs" />
+    <Compile Include="Assets/pc_3erRetoUnity_Unal/Script/MovementPlatform.cs" />
     <Compile Include="Assets/VerticalPlatformMovement.cs" />
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Enemies/4Elements/Scripts/AirElemental.cs" />
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Environment/Turntable_platforms/GodRays/Scripts/ScrollBehaviour.cs" />
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Enemies/4Elements/Scripts/ScrollUv.cs" />
     <Compile Include="Assets/pc_3erRetoUnity_Unal/Enemies/4Elements/Scripts/Preview.cs" />
-    <Compile Include="Assets/pc_3erRetoUnity_Unal/Script/MovementPlatform.cs" />
-    <Compile Include="Assets/pc_3erRetoUnity_Unal/Script/PlayerController.cs" />
-    <Compile Include="Assets/pc_3erRetoUnity_Unal/Script/GroundDetection.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/pc_3erRetoUnity_Unal/Environment/Rocks/readme.txt" />
