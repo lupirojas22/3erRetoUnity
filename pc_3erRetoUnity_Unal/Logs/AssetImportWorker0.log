@@ -354,3 +354,21 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 6442.582086 seconds.
+  path: Assets/PolarizedPlatformPack/Materials/deciduoustree2_Leaves.mat
+  artifactKey: Guid(51c832fe8d2014c4989eea133f57eba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolarizedPlatformPack/Materials/deciduoustree2_Leaves.mat using Guid(51c832fe8d2014c4989eea133f57eba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7438c59df4c3784ca023f3ee1546ddd4') in 0.442425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001052 seconds.
+  path: Assets/PolarizedPlatformPack/Materials/deciduoustree3_Tribe.mat
+  artifactKey: Guid(4f5667479c1ca0a48823d0b30b3e2ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolarizedPlatformPack/Materials/deciduoustree3_Tribe.mat using Guid(4f5667479c1ca0a48823d0b30b3e2ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed401ee83b1603971ce67c0006428ddd') in 0.004036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/PolarizedPlatformPack/Materials/deciduoustree2_Tribe.mat
+  artifactKey: Guid(e8d23230ceac52e49b9c252b263bc3ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolarizedPlatformPack/Materials/deciduoustree2_Tribe.mat using Guid(e8d23230ceac52e49b9c252b263bc3ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65a98e2f81834ec5e2e0da6339e1643') in 0.004977 seconds 
