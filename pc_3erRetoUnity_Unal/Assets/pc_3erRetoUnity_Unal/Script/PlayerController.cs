@@ -12,6 +12,8 @@ public class PlayerController : MonoBehaviour
 
     public float forceJump;
     public bool isJump;
+    public int jumpsPerformed = 0;
+    public int maxJumps = 2;
 
 
 
@@ -58,16 +60,24 @@ public class PlayerController : MonoBehaviour
 
         if (isJump)
         {
-            if (Input.GetKeyUp(KeyCode.Space))
+            if (Input.GetKeyDown(KeyCode.Space))
             {
-                animator.SetBool("isJumping", true);
-                rigidBody.AddForce(new Vector3(0, forceJump, 0), ForceMode.Impulse);
-                Debug.Log("Esta saltando.");
+                if (jumpsPerformed < maxJumps)
+                {
+                    animator.SetBool("isJumping", true);
+                    rigidBody.AddForce(new Vector3(0, forceJump, 0), ForceMode.Impulse);
+                    jumpsPerformed++;
+                    Debug.Log("Salto realizado. Saltos restantes: " + (maxJumps - jumpsPerformed));
+                }
             }
             else
             {
                 animator.SetBool("isJumping", false);
             }
+        }
+        else
+        {
+            jumpsPerformed = 0; // Reiniciar el contador de saltos cuando no esté en contacto con el suelo.
         }
 
 
