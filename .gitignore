@@ -2,6 +2,12 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+pc_3erRetoUnity_Unal/Library/
+pc_3erRetoUnity_Unal/Temp 3/
+pc_3erRetoUnity_Unal/Temp 4/
+pc_3erRetoUnity_Unal/Temp 5/
+pc_3erRetoUnity_Unal/Logs/
+pc_3erRetoUnity_Unal/UserSettings/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
